@@ -1,0 +1,14 @@
+1. feed.xml??
+
+
+2. folder structure
+    2.a images.
+
+3. meta tags 
+
+4. full flow 
+    maybe use GPT or some other model. 
+    md to html convert according to the boilerplate?
+
+    adding new blogs automatically, in the right folder, in the right place. 
+    image, full flow. images locations automatically. 
