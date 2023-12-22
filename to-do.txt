@@ -1,14 +1,5 @@
 1. feed.xml??
-
 3. meta tags 
  - discord, twitter, google, facebook, whatsapp. 
-
-4. write authors. 
-
 5. add image (s)
-
-6. some else font? maybe make 90%?
-
 7. add tab icon for browser. logo type. 
-
-8. change we to I (singular) or everything plural. 
