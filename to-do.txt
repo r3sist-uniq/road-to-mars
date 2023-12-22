@@ -1,18 +1,12 @@
 1. feed.xml??
 
-
-2. folder structure
-    2.a images.
-
 3. meta tags 
+ - discord, twitter, google, facebook, whatsapp. 
 
-4. full flow 
-    maybe use GPT or some other model. 
-    md to html convert according to the boilerplate?
+4. write authors. 
 
-    adding new blogs automatically, in the right folder, in the right place. 
-    image, full flow. images locations automatically. 
+5. add image (s)
 
-5. create about page. and "journaling my journey to mars" heading. 
+6. some else font? maybe make 90%?
 
-
+7. add tab icon for browser. logo type. 
