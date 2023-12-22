@@ -1,0 +1,30 @@
+body {
+  text-align: center; /* Centering the content */
+}
+
+.games-list-container {
+  margin: 20px 0; /* Add space above and below the list */
+}
+
+.games-list {
+  list-style: none; /* Removing default list styling */
+  padding: 0; /* Resetting padding to remove indent */
+}
+
+.games-list li {
+  display: inline-block;
+  margin: 0 10px; /* Space between list items if needed */
+}
+
+.games-collage {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* This will center the images in the collage */
+  gap: 10px; /* This adds space between the images */
+}
+
+.games-collage img {
+  width: calc(33.333% - 20px); /* Adjust the width as necessary, accounting for gap */
+  margin-bottom: 10px; /* Space below each image */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: adds a shadow for depth */
+}

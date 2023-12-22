@@ -155,7 +155,7 @@
   #color-mode-switch {
     display: flex;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: flex-start;
   }
   
   #color-mode-switch > span {
@@ -175,6 +175,18 @@
     width: 0;
     visibility: hidden;
   }
+ 
+  #color-mode-switch .link-container {
+    margin-left: auto; /* This pushes the container to the right side of the flex container */
+}
+
+  #color-mode-switch .link-container a {
+    margin-right: 16px; /* Space between the links */
+    text-decoration: none;
+    color: inherit; /* Inherits color from the parent element */
+    /* Additional styling for links can go here */
+}
+
   
   #color-mode-switch label {
     cursor: pointer;
