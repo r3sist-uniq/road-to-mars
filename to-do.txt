@@ -14,3 +14,5 @@
     image, full flow. images locations automatically. 
 
 5. create about page. and "journaling my journey to mars" heading. 
+
+
