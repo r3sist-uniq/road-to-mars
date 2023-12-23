@@ -27,20 +27,17 @@ blockquote {
 </style>
 <head>
   <script>
-      window.onload = function() {
-          var preloadedImage = localStorage.getItem('preloadedImage');
-
-          if(preloadedImage) {
-              console.log('preloaded image found')
-              document.getElementById('factorio_image').src = preloadedImage;
-              localStorage.removeItem('preloadedImage');
-          }else {
-            var index = Math.floor(Math.random() * 4);
-            document.getElementById('factorio_image').src = `https://matreja.me/images/factorio_${index+1}.jpg`;
-          }
-      };
-  </script>
-
+    window.onload = function() {
+        var selectedImage = localStorage.getItem('selectedImage');
+        if (selectedImage) {
+            document.getElementById('factorio_image').src = selectedImage;
+            localStorage.removeItem('selectedImage');
+        } else {
+            var randomIndex = Math.floor(Math.random() * 4);
+            document.getElementById('factorio_image').src = `https://matreja.me/images/factorio_${randomIndex + 1}.jpg`;
+        }
+    };
+</script>
 </head>
 <link rel="stylesheet" type="text/css" href="../../css/common-vendor.b8ecfc406ac0b5f77a26.css">
 <link rel="stylesheet" type="text/css" href="../../css/fretboard.f32f2a8d5293869f0195.css">

@@ -4,12 +4,17 @@
 
 <head> 
   <script>
-    var index = Math.floor(Math.random() * 4);
-    var selectedImage = `https://matreja.me/images/factorio_${index + 1}.jpg`
-    var preloadImage = new Image();
-    preloadImage.src = selectedImage;
-    localStorage.setItem('preloadedImage', selectedImage);
-  </script>
+    function preloadImage(url) {
+        const img = new Image();
+        img.src = url;
+    }
+    var selectedImageIndex = Math.floor(Math.random() * 4);
+    localStorage.setItem('selectedImage', `https://matreja.me/images/factorio_${selectedImageIndex + 1}.jpg`);
+    for (var i = 0; i < 4; i++) {
+        preloadImage(`https://matreja.me/images/factorio_${i + 1}.jpg`);
+    }
+
+</script>
 
 </head>
 
