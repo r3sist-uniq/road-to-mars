@@ -10,7 +10,9 @@
     }
     var selectedImageIndex = Math.floor(Math.random() * 4);
     localStorage.setItem('selectedImage', `https://matreja.me/images/factorio_${selectedImageIndex + 1}.jpg`);
+    preloadImage(`https://matreja.me/images/factorio_${selectedImageIndex + 1}.jpg`);
     for (var i = 0; i < 4; i++) {
+        if (i == selectedImageIndex) continue;
         preloadImage(`https://matreja.me/images/factorio_${i + 1}.jpg`);
     }
 
