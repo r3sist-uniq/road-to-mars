@@ -2,6 +2,7 @@
 <html>
 <meta charset="UTF-8">
 <style>
+
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #1c1c1c;
@@ -24,7 +25,21 @@ blockquote {
     font-size: 0.95em; 
 }
 </style>
+<head>
+  <script>
+      window.onload = function() {
+          var preloadedImage = localStorage.getItem('preloadedImage');
 
+          if(preloadedImage) {
+              document.getElementById('factorio_image').src = preloadedImage;
+          }else {
+            var index = Math.floor(Math.random() * images.length);
+            document.getElementById('factorio_image').src = `https://matreja.me/images/factorio_${index+1}.jpg`;
+          }
+      };
+  </script>
+
+</head>
 <link rel="stylesheet" type="text/css" href="../../css/common-vendor.b8ecfc406ac0b5f77a26.css">
 <link rel="stylesheet" type="text/css" href="../../css/fretboard.f32f2a8d5293869f0195.css">
 <link rel="stylesheet" type="text/css" href="../../css/pretty.0ae3265014f89d9850bf.css">
@@ -112,8 +127,9 @@ MathJax = {
 <title> Maybe the meaning of life is to play factorio. </title>
 
 <div style="text-align: center;">
-  <img src="../../images/factorio_4.webp" style="margin-bottom: 19px;" alt="some great factory image">
+  <img id="factorio_image" src="" style='margin-bottom: 19px;'alt="some great factory image">
 </div>
+
 <p>For those who don’t know, <a href="http://factorio.com">factorio</a> is a game where you build and maintain massive factories in order to build a rocket to get out of the planet you crash landed in.</p>
 <p>Playing factorio in real life, for us, means being a definite optimist, understanding ways of creating, doing hard tech at scale, working with (intelligent) machines, using the means of abundant energy, organizing intelligence to advance civilization using the means of capitalism, by arranging atoms in novel and useful ways, letting only nature and free markets validate our conjectures, embracing universal knowledge creation principles of fallibilism, understanding nature and society, building the best factories in our solar system, and knowing that any good system takes (a very long) time to build.</p>
 <p>Factories are physical places in spacetime which produce extraordinary value from resources at hands, and make lives fundamentally better (resources in, products out). The capability of our factories determine the capability of our civilization. And it is the backbone of any advancing civilization. It might be a good time to spend human-flops in this area because of the great stagnation. And because manufacturing is hard. Much harder than we think we can even imagine right now.</p>

@@ -4,9 +4,22 @@
 
 <head> 
   <script>
+    var images = [
+        'https://matreja.me/images/factorio_1.jpg',
+        'https://matreja.me/images/factorio_2.jpg',
+        'https://matreja.me/images/factorio_3.jpg',
+        'https://matreja.me/images/factorio_4.jpg',
+    ];
+
+    var index = Math.floor(Math.random() * images.length);
+    var selectedImage = images[index];
+
     var preloadImage = new Image();
-    preloadImage.src = '../../images/factorio_4.webp'; 
-</script>
+    preloadImage.src = selectedImage;
+
+    localStorage.setItem('preloadedImage', selectedImage);
+  </script>
+
 </head>
 
 <meta charset="UTF-8">
