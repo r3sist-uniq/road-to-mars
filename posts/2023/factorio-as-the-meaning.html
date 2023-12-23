@@ -31,9 +31,11 @@ blockquote {
           var preloadedImage = localStorage.getItem('preloadedImage');
 
           if(preloadedImage) {
+              console.log('preloaded image found')
               document.getElementById('factorio_image').src = preloadedImage;
+              localStorage.removeItem('preloadedImage');
           }else {
-            var index = Math.floor(Math.random() * images.length);
+            var index = Math.floor(Math.random() * 4);
             document.getElementById('factorio_image').src = `https://matreja.me/images/factorio_${index+1}.jpg`;
           }
       };
