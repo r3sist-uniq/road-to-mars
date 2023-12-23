@@ -40,8 +40,12 @@ MathJax = {
   src="./scripts/tex-svg.js">
 </script>
 
-<style>
-</style>
+<script>
+  window.onload = function() {
+      var preloadImage = new Image();
+      preloadImage.src = '../../images/factorio_4.png'; 
+  };
+</script>
 
 <div id="doc" class="container-fluid markdown-body comment-enabled" data-hard-breaks="true">
 
