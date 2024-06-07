@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<style>
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #1c1c1c;
+        color: white;
+    }
+    .markdown-body table tr {
+        background-color: #1c1c1c;
+    }
+    .markdown-body table tr:nth-child(2n) {
+        background-color: black;
+    }
+}
+</style>
+
+<link rel="alternate" type="application/rss+xml" href="../../feed.xml" title="On humble beginnings">
+
+<link rel="stylesheet" type="text/css" href="../../css/common-vendor.b8ecfc406ac0b5f77a26.css">
+<link rel="stylesheet" type="text/css" href="../../css/fretboard.f32f2a8d5293869f0195.css">
+<link rel="stylesheet" type="text/css" href="../../css/pretty.0ae3265014f89d9850bf.css">
+<link rel="stylesheet" type="text/css" href="../../css/pretty-vendor.83ac49e057c3eac4fce3.css">
+<link rel="stylesheet" type="text/css" href="../../css/global.css">
+<link rel="stylesheet" type="text/css" href="../../css/misc.css">
+<link rel="icon" type="image/png" href="../../images/space-at-last.png">
+
+<script type="text/x-mathjax-config">
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\(', '\)']]
+  },
+  svg: {
+    fontCache: 'global',
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async
+  src="../../scripts/tex-svg.js">
+</script>
+
+<style>
+</style>
+
+<div id="doc" class="container-fluid markdown-body comment-enabled" data-hard-breaks="true">
+
+<div id="color-mode-switch">
+  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
+  </svg>
+  <input type="checkbox" id="switch" />
+  <label for="switch">Dark Mode Toggle</label>
+  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
+  </svg>
+</div>
+
+<script type="text/javascript">
+  // Update root html class to set CSS colors
+  const toggleDarkMode = () => {
+    const root = document.querySelector('html');
+    root.classList.toggle('dark');
+  }
+
+  // Update local storage value for colorScheme
+  const toggleColorScheme = () => {
+    const colorScheme = localStorage.getItem('colorScheme');
+    if (colorScheme === 'light') localStorage.setItem('colorScheme', 'dark');
+    else localStorage.setItem('colorScheme', 'light');
+  }
+
+  // Set toggle input handler
+  const toggle = document.querySelector('#color-mode-switch input[type="checkbox"]');
+  if (toggle) toggle.onclick = () => {
+    toggleDarkMode();
+    toggleColorScheme();
+  }
+
+  // Check for color scheme on init
+  const checkColorScheme = () => {
+    const colorScheme = localStorage.getItem('colorScheme');
+    // Default to light for first view
+    if (colorScheme === null || colorScheme === undefined) localStorage.setItem('colorScheme', 'light');
+    // If previously saved to dark, toggle switch and update colors
+    if (colorScheme === 'dark') {
+      toggle.checked = true;
+      toggleDarkMode();
+    }
+  }
+  checkColorScheme();
+</script>
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="On electricity becoming too cheap to meter" />
+<meta name="twitter:image" content="./images/space-at-last.png" />
+
+
+<br>
+<h1 style="margin-bottom:7px">(in progress) "the spice must flow"</h1>
+<small style="float:left; color: #888"> 24 May 2024 </small>
+<small style="float:right; color: #888"><a href="../../index.html">See all posts</a></small>
+<br> <br>
+<title> On the semicon tech stack</title>
+
+
+<blockquote>
+  <h3>“I want you to squeeze and squeeze and squeeze! Give me spice!” - Dune</h3>
+</blockquote>
+
+<div style="text-align: center;">
+  <a href="https://x.com/lithos_graphein/status/1793818495613866312">
+      <img src="../../images/spice_on_earth.jpeg" style="width: 400px; margin-bottom: 5px;" class="padded" />
+  </a>
+  <p style="font-size: 12px; margin-top: 0; margin-bottom: 5px;">
+      <a href="https://x.com/lithos_graphein/status/1793818495613866312">Source</a>
+  </p>
+</div>
+
+  <h4>Good monopolies, the great houses:</h4>
+  <ul>
+      <li>CVD and PVD (deposition): Applied Material top. KLA and Tokyo Electron some.</li>
+      <li>Photo resists coating: Tokyo Electron - 90% market share.</li>
+      <li>Photolithography: ASML. Also, Nikon, Canon, and SMEE.</li>
+      <li>Dry etch - reactive ion etching: Applied Materials, KLA, Lam Research, Tokyo Electron.</li>
+      <li>Top assembly and test houses → ASE, Amkor, Siliconware Precision, and STATS-Chipac</li>
+  </ul>
+
+  <h4>On the spice harvestors</h4>
+  <ul>
+    <li>Wafer fab equipment, etchers, deposition, lithography, testers, packaging</li>
+    <li>EU​V lithography</li>
+    <li>Ion implanter machine (for doping)</li>
+    <li>Wafer washing machine</li>
+    <li>Ion diffusion furnace (doping, but diffusion isn’t used anymore)</li>
+    <li>Thermal oxidation furnace (deposition)</li>
+    <li>Endura Volta Selective (CVD deposition)</li>
+    <li>Centura Ultima HDP CVD (CVD deposition)</li>
+    <li>JEOL E-beam direct write system for masks (photo masks)</li>
+    <li>Photo resist (spin) coating machines</li>
+    <li>Photo resist stripping machine (resist stripping after the pattern has been etched)</li>
+    <li>Sonora ASM wafer heating machine</li>
+    <li>Czochralski crystal growing systems - growing silicon wafers</li>
+</ul>
+
+<h4>Harvesting (the process flow):</h4>
+
+<ul>
+  <li><strong>Wafer:</strong></li>
+  <ul>
+      <li>Each step is either adding, modifying, heating, cleaning, or removing the layers on the wafers.</li>
+      <li>Add thin layer of something</li>
+      <li>Use lithography to transfer a pattern from a mask onto the layer</li>
+      <li>Etching the pattern</li>
+      <li>Doping</li>
+      <li>Adding thin layer again</li>
+  </ul>
+</ul>
+
+<ul>
+  <li><strong>Deposition:</strong> Depositing thin layers onto wafers. Oxides, polysilicons, metal conductors, dielectric insulators.</li>
+  <ul>
+      <li>Thermal oxidation:</strong> Used for growing silicon oxide layers onto the wafers artificially. A thin layer grows automatically.</li>
+      <li>Epitaxy:</strong> For depositing epitaxial layers of pure silicon on the wafers. Normal wafers still have oxygen and carbon impurities. Everything sits on top of this epitaxial layer.</li>
+      <li>Physical Vapour Deposition:</strong> For depositing thin metal layers. In a vacuum chamber, with wafers on the top, metals are heated from above. Metal vaporizes and gets deposited on the wafer.</li>
+      <li>Irving’s PVD technique of argon ions.</strong></li>
+      <li>Chemical Vapour Deposition:</strong> Also used to deposit epitaxial layers of silicon.</li>
+      <li>Atomic Layer Deposition.</li>
+  </ul>
+</ul>
+
+<ul>
+  <li><strong>Photo Masks:</strong>
+      <ul>
+          <li>Materials:</strong> Quartz, lime soda glass.</li>
+          <li>Machine:</strong> JEOL E-beam direct write system for masks (photo masks).</li>
+          <li>Photo Resists:</strong> Like film, which reacts with light when exposed and leaves an imprint.</li>
+          <li>Etching:</strong>
+              <ul>
+                  <li>Wet etching</li>
+                  <li>Dry etching / Plasma etch / plasma assisted etching</li>
+                  <li>Reactive ion etching</li>
+              </ul>
+          </li>
+      </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><strong>Spice Origin:</strong>
+      <ul>
+          <li>Czochralski process</li>
+      </ul>
+  </li>
+</ul>
+
+
+
+

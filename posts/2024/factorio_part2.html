@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<style>
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #1c1c1c;
+        color: white;
+    }
+    .markdown-body table tr {
+        background-color: #1c1c1c;
+    }
+    .markdown-body table tr:nth-child(2n) {
+        background-color: black;
+    }
+}
+</style>
+
+<link rel="alternate" type="application/rss+xml" href="../../feed.xml" title="On humble beginnings">
+
+<link rel="stylesheet" type="text/css" href="../../css/common-vendor.b8ecfc406ac0b5f77a26.css">
+<link rel="stylesheet" type="text/css" href="../../css/fretboard.f32f2a8d5293869f0195.css">
+<link rel="stylesheet" type="text/css" href="../../css/pretty.0ae3265014f89d9850bf.css">
+<link rel="stylesheet" type="text/css" href="../../css/pretty-vendor.83ac49e057c3eac4fce3.css">
+<link rel="stylesheet" type="text/css" href="../../css/global.css">
+<link rel="stylesheet" type="text/css" href="../../css/misc.css">
+<link rel="icon" type="image/png" href="../../images/space-at-last.png">
+
+<script type="text/x-mathjax-config">
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\(', '\)']]
+  },
+  svg: {
+    fontCache: 'global',
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async
+  src="../../scripts/tex-svg.js">
+</script>
+
+<style>
+</style>
+
+<div id="doc" class="container-fluid markdown-body comment-enabled" data-hard-breaks="true">
+
+<div id="color-mode-switch">
+  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
+  </svg>
+  <input type="checkbox" id="switch" />
+  <label for="switch">Dark Mode Toggle</label>
+  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
+  </svg>
+</div>
+
+<script type="text/javascript">
+  // Update root html class to set CSS colors
+  const toggleDarkMode = () => {
+    const root = document.querySelector('html');
+    root.classList.toggle('dark');
+  }
+
+  // Update local storage value for colorScheme
+  const toggleColorScheme = () => {
+    const colorScheme = localStorage.getItem('colorScheme');
+    if (colorScheme === 'light') localStorage.setItem('colorScheme', 'dark');
+    else localStorage.setItem('colorScheme', 'light');
+  }
+
+  // Set toggle input handler
+  const toggle = document.querySelector('#color-mode-switch input[type="checkbox"]');
+  if (toggle) toggle.onclick = () => {
+    toggleDarkMode();
+    toggleColorScheme();
+  }
+
+  // Check for color scheme on init
+  const checkColorScheme = () => {
+    const colorScheme = localStorage.getItem('colorScheme');
+    // Default to light for first view
+    if (colorScheme === null || colorScheme === undefined) localStorage.setItem('colorScheme', 'light');
+    // If previously saved to dark, toggle switch and update colors
+    if (colorScheme === 'dark') {
+      toggle.checked = true;
+      toggleDarkMode();
+    }
+  }
+  checkColorScheme();
+</script>
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="On electricity becoming too cheap to meter" />
+<meta name="twitter:image" content="./images/space-at-last.png" />
+
+
+<br>
+<h1 style="margin-bottom:7px"> A (large) series on the human tech tree. </h1>
+<small style="float:left; color: #888"> 24 May 2024 </small>
+<small style="float:right; color: #888"><a href="../../index.html">See all posts</a></small>
+<br> 
+<title>Intro to a (large) series of pieces on understanding progress.</title>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> On our tech tree</title>
+</head>
+<br>
+<body>
+    <p> Intro to a series of pieces we are going to be writing on understanding progress, humanity's tech tree, and the role of humans.</p>
+
+    <h3>Part 1: On the Philosophy of Progress (and Human Organization)</h3>
+    <ol>
+        <li>
+            Since we cannot predict the creation of new knowledge and hence the future, what fundamental questions allow us to reason about taking decisions? (Problem of induction). How do you decide under uncertainty?
+        </li>
+        <li>
+            The optimization function. (The idea of optimizing against errors?)
+        </li>
+        <li>
+            What is your theory of history?
+        </li>
+        <li>
+            Rational vs anti-rational memes. Ideas which replicate. What has religion been?
+        </li>
+        <li>
+            "A society cannot go from burning wood to making nuclear reactors." On this being perhaps the only chance for us.
+        </li>
+        <li>
+            What are our current ideas optimizing for? Landscape of different ideologies, (political) theologies, economic and social systems. Mimesis, and religion.
+        </li>
+        <li>
+            The easier ways, filters, and reaching the (global) minima on the contour of the landscape of humanity's optimization function.
+        </li>
+        <li>
+            Getting back to the future.
+        </li>
+    </ol>
+
+    <h3>Part 2: Moon's View of Earth</h3>
+    <ol>
+        <li>
+            Material wealth: ability to create artifacts which embody knowledge.
+        </li>
+        <li>
+            Energy and civilization.
+        </li>
+        <li>
+            Fundamental building blocks of industrial society. How to industrialize Earth (again). OK, How do you industrialize third world countries?
+        </li>
+        <li>
+            How does a civilization get to a point where you can build/manufacture lithography machines or reach another planet?
+        </li>
+        <li>
+            Humanity's current tech tree.
+        </li>
+        <li>
+            Humanity’s current social tech tree.
+        </li>
+    </ol>
+
+    <h3>Part 3: On the Fundamentals of Functional Institutes</h3>
+    <ol>
+        <li>
+            On the most important companies (and institutions) being at the (deepest) infrastructure layers of society? That they enable things?
+        </li>
+        <li>
+            Stretching and forming a moat around a branch of the human tech tree. (And how Boeing perhaps is at the end of theirs)
+        </li>
+        <li>
+            DARPA with just 250 employees defining entire decades of the entire world.
+        </li>
+        <li>
+            How to design, maintain, and evolve an organizational structure that supports the building of large infrastructure technologies and megaprojects.
+        </li>
+        <li>
+            Don’t the major technical progress seem like low-hanging fruits in the grand cosmos of things? Think some alien civilization watching us. Are we progressing on a civilizational blueprint? (Like the Kardashev scale). What are we missing?
+        </li>
+        <li>
+            How to look for functional institutes?
+        </li>
+        <li>
+            How to design incentives for individuals in large scale organizations, from ancient armies to large modern bureaucracies to small scale startups.
+        </li>
+    </ol>
+
+    <h3>Part 4: Nexus. Chemical Scums that Dream of Distant Quasars</h3>
+    <ol>
+        <li>
+            Humans. The theory of our place. Universal constructors.
+        </li>
+        <li>
+            On our (evolutionary) limitations.
+        </li>
+        <li>
+            On giving up, nihilism, and even implicit pessimism! We are NOT nothing. We will eradicate poverty, terraform planets, become immortal, and travel the universe.
+        </li>
+        <li>
+            Universality, and why people "are" important. Even if 1000s trillions of civilizations are there, it makes us even more important. Why? With more intelligence in the universe - our ideas can spread more, thus have more impact in the universe. Intelligence being the conduit of objectively great ideas (to understand the true nature of the universe). Worrying about our place in the universe against the immensity of space-time is like worrying for not being a cow. The bigger the universe, the better! Longer the timespan of our universe, the better!
+        </li>
+    </ol>
+
+    <h3>Part 5: Trillion Dollar Companies Should Be Common</h3>
+    <ol>
+        <li>
+            The idea of intellectual dark and white matter in carving out that part of the tech tree of humanity.
+        </li>
+        <li>
+            Infrastructure companies, and how they enable things for our civilization. And aren’t a lot of them like low hanging fruits in some alien’s civ blueprint?
+        </li>
+        <li>
+            Imagine a world of 100s of billions of humans and thousands of trillion-dollar companies.
+        </li>
+        <li>
+            The sheer amount of intelligence (artificial and human), and time it takes.
+        </li>
+        <li>
+            The idea of carving out the tech tree like Factorio. But ours might be infinite and unknowable.
+        </li>
+    </ol>
+    
+    <h3>Part 6: "They are Still That" - Some Alien Pleb</h3>
+    <ol>
+        <li>
+            Energy scarcity and poverty. (Why) are we an energy-poor civilization?
+        </li>
+        <li>
+            Spice fields in semiconductors. Other spice fields on the planet? Are they beneficial?
+        </li>
+        <li>
+            Transportation. Like an inefficient, unoptimized, noob tier Factorio base. Do you get the intuition?
+        </li>
+        <li>
+            Becoming multiplanetary and everything that comes with it. How would we reach the closest star?
+        </li>
+        <li>
+            Aging (and disease)
+        </li>
+        <li>
+            Fuck the alien pleb.
+        </li>
+    </ol>
+
+    <h3>Part 7: On the Industrialization of Mars (<a href="http://industrialmars.com">industrialmars.com</a>)</h3>
+    <ol>
+    <li>An experiment in thinking how society functions and then building one. </li>
+    <li> The idea that such a miniaturization/compactization/optimization/consolidation and compression of civilization, to replicate on another planet (and to do so relatively quickly) will require the culmination of society’s best ideas and their implementation in the most efficient manner. </li>
+    </ol>
+</body>
+</html>

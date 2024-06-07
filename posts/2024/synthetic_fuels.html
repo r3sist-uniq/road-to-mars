@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<style>
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #1c1c1c;
+        color: white;
+    }
+    .markdown-body table tr {
+        background-color: #1c1c1c;
+    }
+    .markdown-body table tr:nth-child(2n) {
+        background-color: black;
+    }
+}
+</style>
+
+<link rel="alternate" type="application/rss+xml" href="../../feed.xml" title="On humble beginnings">
+
+<link rel="stylesheet" type="text/css" href="../../css/common-vendor.b8ecfc406ac0b5f77a26.css">
+<link rel="stylesheet" type="text/css" href="../../css/fretboard.f32f2a8d5293869f0195.css">
+<link rel="stylesheet" type="text/css" href="../../css/pretty.0ae3265014f89d9850bf.css">
+<link rel="stylesheet" type="text/css" href="../../css/pretty-vendor.83ac49e057c3eac4fce3.css">
+<link rel="stylesheet" type="text/css" href="../../css/global.css">
+<link rel="stylesheet" type="text/css" href="../../css/misc.css">
+<link rel="icon" type="image/png" href="../../images/space-at-last.png">
+
+<script type="text/x-mathjax-config">
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\(', '\)']]
+  },
+  svg: {
+    fontCache: 'global',
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async
+  src="../../scripts/tex-svg.js">
+</script>
+
+<style>
+</style>
+
+<div id="doc" class="container-fluid markdown-body comment-enabled" data-hard-breaks="true">
+
+<div id="color-mode-switch">
+  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
+  </svg>
+  <input type="checkbox" id="switch" />
+  <label for="switch">Dark Mode Toggle</label>
+  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
+  </svg>
+</div>
+
+<script type="text/javascript">
+  // Update root html class to set CSS colors
+  const toggleDarkMode = () => {
+    const root = document.querySelector('html');
+    root.classList.toggle('dark');
+  }
+
+  // Update local storage value for colorScheme
+  const toggleColorScheme = () => {
+    const colorScheme = localStorage.getItem('colorScheme');
+    if (colorScheme === 'light') localStorage.setItem('colorScheme', 'dark');
+    else localStorage.setItem('colorScheme', 'light');
+  }
+
+  // Set toggle input handler
+  const toggle = document.querySelector('#color-mode-switch input[type="checkbox"]');
+  if (toggle) toggle.onclick = () => {
+    toggleDarkMode();
+    toggleColorScheme();
+  }
+
+  // Check for color scheme on init
+  const checkColorScheme = () => {
+    const colorScheme = localStorage.getItem('colorScheme');
+    // Default to light for first view
+    if (colorScheme === null || colorScheme === undefined) localStorage.setItem('colorScheme', 'light');
+    // If previously saved to dark, toggle switch and update colors
+    if (colorScheme === 'dark') {
+      toggle.checked = true;
+      toggleDarkMode();
+    }
+  }
+  checkColorScheme();
+</script>
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="On electricity becoming too cheap to meter" />
+<meta name="twitter:image" content="./images/space-at-last.png" />
+
+
+<br>
+<h1 style="margin-bottom:7px"> On electricity becoming too cheap to meter </h1>
+<small style="float:left; color: #888"> 24 May 2024 </small>
+<small style="float:right; color: #888"><a href="../../index.html">See all posts</a></small>
+<br> <br> <br>
+<title>On electricity becoming too cheap to meter</title>
+
+
+  <p>Because of solar, electricity becomes to cheap to meter in the coming years. What happens then? It becomes cheaper to create fuels rather than digging them from the ground. AND that adapting known heavy industrial processes to ultra cheap electricity will make producing things a lot cheaper (like aluminium).</p>
+
+
+  <p>Currently, half the world suffers from oil scarcity due to supply chain issues, geopolitical deadlocks. Synthetic fuel (enabled by cheap electricity from solar) fixes this. 
+  </p>
+
+  <p>Cost of natural gas, and thus its end products (like electricity) are more or less the same, because the cost of digging up natural gas has been more or less the same, and will be the same. Much less, it is going to go up because we will keep running out of it. 
+  </p>
+
+  <p>Cheap abundant synthetic fuel will drive increased production of heavy heat intensive products like metals, cement, silicon. We’ll get hypersonic flight. Cheap transportation for everyone on the planet. Casey says mining tech will become much better, (it) “enables direct electrocatalytic production of a range of materials, including light metals like aluminum and magnesium”. We’ll have solar powered reverse osmosis for water. Desalination! Even atomicly precise manufacturing “Generic recycling of waste not by streaming similar materials such as plastic, metal, and paper and feeding them into secondary products, but by converting the entire waste stream into plasma and sorting it atom by atom with a gigantic mass spectrometer” - <a href="https://caseyhandmer.wordpress.com/2023/10/11/radical-energy-abundance/">Casey</a></p>
+
+  <p>Now, imagine you building a synthetic natural gas plant, which is run by electricity. That synthetic natural gas has a cost associated with it, just as the natural gas which came out of the ground. No matter where your natural gas came from, the cost of using it, should be the SAME, in order for it to make sense economically. this seems straight forward, but it becomes a bit nuanced when you consider the cost of energy and the inefficiencies of converting electricity into natural gas. 
+  </p>
+
+  <p> The efficiency of using solar pv to convert to natural gas is about 30 percent. The efficiency of using natural gas into electricity is about 40 percent. Meaning, the process of electricity into natural gas and again into electricity is only 14 percent efficient. which basically means, that if the cost of electricity you are generating from natural gas is the same as your source (solar pv in this case), then you are nuts for using that artificial gas. You need the source of your energy to be alteast 7x cheaper than just using the natural gas which came from the ground. This basically means, if your source is not more than 7x cheaper, then it is not feasible to use those synthetic fuels. </p>
+
+  <p>It is not only catered to electricity, we are using this comparison because it gives us a good way to quantify the final economic costs associated with whatever natural gas you have. And it’s probably not just the cost of energy (opex), but capex as well. You need capex to be so cheap, but opex to be much more (because you can afford it).  
+  </p>
+
+  <p> But solar is going to become really really cheap. And in the process of it becoming 7x, and being used as the default source of natural gas, there are many markets where natural gas is quite expensive than other places, where synthetic natural gas is going to break even in the next few years! Because of solar. Not the entire world yet, but it will have markets. And slowly, as solar declines more, it is going to become more and more sensible to take natural gases out of the air. </p>
+
+  <p>Now the climate part, 
+  </p>
+
+  <p>The political deadlock of not giving up on fossil fuels and using only renewables because of price increases is real. plus, there is oil and natural gas scarcity all around the world. We need more energy, radical energy abundance to abolish poverty. 
+  </p>
+
+  <p>Using synthetic carbon sources, it forms a cycle, where no new carbon is being added to the environment. And it is sometimes carbon negative too. Though this will not solve the issue of all the carbon we have deposited over the past century, it will allow people to use as much fuel as they need. Since now, natural gas can become much cheaper than it currently is (because of now, we are using chemistry instead of digging stuff out), alot of things can become much cheaper. everywhere natural gas is used, and much much more uses. </p>
+
+  <p>Since that production is also going to be localized, there are no supply chain issues and things like the 1973 oil embargos. Meaning no stagnation. we have now the ability to have all the fuel we need.  </p>
+
+  <p>Also, since now there will be a market for carbon capture (a good one), this field can fund itself, which can lead to great economics of scale, and make CC tech very cheap. Because we need it to be cheap. 
+  </p>
+
+  <h4>Numbers and Economics</h4>
+  <ul>
+      <li>Electricity should hit $10/MWh.</li>
+      <li>Need hydrogen to get to $1/kg because that's what (on average) we get with creating it through other means (fossil fuels). Though Austin says for it to really take off, we need it to be like $0.4-$0.6.</li>
+      <li>Carbon to be $100/tonne. This makes atmospheric carbon very cheap to use.</li>
+  </ul>
+
+
