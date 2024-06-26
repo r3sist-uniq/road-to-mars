@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<style>
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #1c1c1c;
+        color: white;
+    }
+    .markdown-body table tr {
+        background-color: #1c1c1c;
+    }
+    .markdown-body table tr:nth-child(2n) {
+        background-color: black;
+    }
+}
+.speaker {
+            font-weight: bold;
+            color: #333;
+        }
+        .viktor {
+            color: #d9534f;
+        }
+        .sofia {
+            color: #5bc0de;
+        }
+</style>
+
+<link rel="alternate" type="application/rss+xml" href="../../feed.xml" title="On humble beginnings">
+
+<link rel="stylesheet" type="text/css" href="../../css/common-vendor.b8ecfc406ac0b5f77a26.css">
+<link rel="stylesheet" type="text/css" href="../../css/fretboard.f32f2a8d5293869f0195.css">
+<link rel="stylesheet" type="text/css" href="../../css/pretty.0ae3265014f89d9850bf.css">
+<link rel="stylesheet" type="text/css" href="../../css/pretty-vendor.83ac49e057c3eac4fce3.css">
+<link rel="stylesheet" type="text/css" href="../../css/global.css">
+<link rel="stylesheet" type="text/css" href="../../css/misc.css">
+<link rel="icon" type="image/png" href="../../images/space-at-last.png">
+
+<script type="text/x-mathjax-config">
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\(', '\)']]
+  },
+  svg: {
+    fontCache: 'global',
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async
+  src="../../scripts/tex-svg.js">
+</script>
+
+<style>
+</style>
+
+<div id="doc" class="container-fluid markdown-body comment-enabled" data-hard-breaks="true">
+
+<div id="color-mode-switch">
+  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
+  </svg>
+  <input type="checkbox" id="switch" />
+  <label for="switch">Dark Mode Toggle</label>
+  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
+  </svg>
+</div>
+
+<script type="text/javascript">
+  // Update root html class to set CSS colors
+  const toggleDarkMode = () => {
+    const root = document.querySelector('html');
+    root.classList.toggle('dark');
+  }
+
+  // Update local storage value for colorScheme
+  const toggleColorScheme = () => {
+    const colorScheme = localStorage.getItem('colorScheme');
+    if (colorScheme === 'light') localStorage.setItem('colorScheme', 'dark');
+    else localStorage.setItem('colorScheme', 'light');
+  }
+
+  // Set toggle input handler
+  const toggle = document.querySelector('#color-mode-switch input[type="checkbox"]');
+  if (toggle) toggle.onclick = () => {
+    toggleDarkMode();
+    toggleColorScheme();
+  }
+
+  // Check for color scheme on init
+  const checkColorScheme = () => {
+    const colorScheme = localStorage.getItem('colorScheme');
+    // Default to light for first view
+    if (colorScheme === null || colorScheme === undefined) localStorage.setItem('colorScheme', 'light');
+    // If previously saved to dark, toggle switch and update colors
+    if (colorScheme === 'dark') {
+      toggle.checked = true;
+      toggleDarkMode();
+    }
+  }
+  checkColorScheme();
+</script>
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="A conversation with a decel" />
+<meta name="twitter:image" content="./images/factorio_2.jpg" />
+
+
+<br>
+<h1 style="margin-bottom:7px">Sofia Dimitrova vs Viktor Vane: Part 1</h1>
+<small style="float:left; color: #888"> 26 June 2024 </small>
+<small style="float:right; color: #888"><a href="../../index.html">See all posts</a></small>
+<br> <br> <br>
+<title>A conversation with a decel</title>
+
+
+<body>
+
+  <p> This is a (hypothetical) conversation between Sofia Dimitrova (an avid reader of <a href="https://blog.rootsofprogress.org/writing">Roots of Progress</a>, a student of <a href="https://jasoncrawford.org/")>Jason Crawford</a> and Viktor Vane, who lives a great life but still somehow is a (silent) pessimist (like many like him) </p>
+
+
+
+  <div class="conversation">
+      <p class="speaker viktor">Viktor:</p>
+      <p>Weren’t old times more peaceful? Weren’t we more happy in the village life? Wasn’t there less chaos? Didn’t we have fewer problems?</p>
+      
+      <p class="speaker sofia">Sofia:</p>
+      <p>I feel a lot of what we are going to talk about is going to rest on a very simple distortion of reality (most) people have; which is the fundamental ignorance in how people think the world was, or simply taking for granted the life we all get to live.</p>
+      <p>Anyways, NO. What do you mean when you say we were happier in the “olden” times? Do you mean the time when your majority of the time was spent thinking things like if your crops were going to fail that year? Or the time when the average lifespan of a man was 30-35 years old (the European Middle Ages)? The time where a large number of people used to die just because we didn’t have clean water? Or do you feel “fomo” about not having to smell the sewage and stench on the streets? The time where all you, your family and your kids did was toil in the burning sun, or shiver in the cold winter (because guess what, you couldn’t find enough firewood). And, most people were like this.</p>
+      <p>This question, which a lot of people ask, is, again, due to a fundamental flaw in how we think the world is and a very flawed <a href="https://en.wikipedia.org/wiki/Romanticism#:~:text=Romanticism%20(also%20known%20as%20the,end%20of%20the%2018th%20century.">romanticism</a>
+        of the past.</p>
+
+      <p class="speaker viktor">Viktor:</p>
+      <p>No one is denying that. But see the life of people around presently. Aren’t we “economic units” who live in ugly buildings and concrete jungles? That we are just like factory workers in a crony capitalist world.</p>
+      
+      <p class="speaker sofia">Sofia:</p>
+      <p>“No one is denying that” - But are you really accepting it? Have you ever actually thought about the life you live? “We are economic units who work like factory workers because of the age old evil capitalism”.</p>
+      <p>Or in other words, we have <a href="https://blog.rootsofprogress.org/the-four-hour-workday-prediction">far more</a> time on our hands, we can get to do things far more than what people could do. This “factory worker” has access to all the food I need, ability to go anywhere I want on this planet, get access to whatever information or talk to whoever I want, choose who I want to spend time with or what work I want to do. Let’s not (yet) go into talking about capitalism but have a read at this excerpt from <a href="https://www.deirdremccloskey.com/articles/bd/greatfact.php">this</a> article, quote:</p>
+      <blockquote>
+          <p>“Some of the other arguments are downright head-scratchers, such as the Marxist insistence that capitalist wealth was created by the exploitation of the working classes.</p>
+          <p>Trouble is, of course, that no class of people over the past two centuries enjoyed such an absolute (and relative) improvement in their standard of living than did the very working classes from whom capitalist wealth was supposed to be extracted through exploitation. If that's the fate that exploitation visits on its victims, I pray to be exploited good and hard and often!”</p>
+      </blockquote>
+      <p>And about the ugly buildings and concrete jungles thing. Though I personally love them (real world artifacts which show power), this is again you taking for granted what it means to live in a good city, in not having to think about how many abstractions/black boxes you live in.</p>
+      <p>And if you’ll say; “but checkout the older monuments and architecture, see how good we were”. The problem with that argument is that you only get to see the things which survived (a simple yet profound example of “silent evidence”). We were generally terrible at making structures and were guided by flawed intuitions and pseudo-science.</p>
+
+      <p class="speaker viktor">Viktor:</p>
+      <p>Ms. Dimitrova, Have you seen education? What we do to our children?</p>
+      
+      <p class="speaker sofia">Sofia:</p>
+      <p>I agree. It is terrible. I myself hated school (and didn’t go to college because I had(ve) the internet). But this is again you romanticizing about the past. Most people used to be uneducated and never sent their children (let alone girls) to school, making them work with them since a very early age. Only a very small majority of people even had the privilege of being shown the wonders of the world. We have improved it by a lot, but it still is terrible. We will <a href="https://www.technologyreview.com/2021/07/13/1028295/proud-solutionist-history-technology-industry/">solve</a> these problems.</p>
+      
+      <p class="speaker viktor">Viktor:</p>
+      <p>It’s like you are making unnecessary excuses to justify the current systems. Tell me this, Aren’t we destroying our planet? Aren’t we running out of resources, can we sustain our this growing population?</p>
+      
+      <p class="speaker sofia">Sofia:</p>
+      <p>I am not making any “unnecessary” excuses. I am just aware and more grateful of what we have been able to do, and also aware of the fact that there are many problems to still fix (because there will <a href="https://www.youtube.com/watch?v=pBuPzz_E2kI">ALWAYS</a> be problems to fix).</p>
+
+      <p>And, what do you mean by destroying our planet? I see that we, as a species, are (slowly) becoming capable enough to terraform entire planets, which is (in my opinion) a very good thing. But not to digress, your question touches upon the old ideas of what one thinks is our place in this universe. And what place does “nature” have. <a href='https://blog.rootsofprogress.org/environment-as-infrastructure'> I see the enviroment as an infrastructure</a></p>
+
+      <p>I’ll want to make arguments and come from the point of view of David Deutsch’s ideas that we are universal constructors, the most powerful (and important) entities in the universe, and that we should become immortal and travel the universe. But this is all too much. One of the things you might say is we are destroying the other organisms we share this planet with? That we are killing animals?</p>
+      <p>I’d like you to reconsider your assumptions and where you’re coming from. You think we are endangering species and that they will go extinct “because” of us? But species have been going extinct way long before humans came into the picture. Somewhere around 99.5% of all different organisms which came are now extinct. Should we take moral responsibility?</p>
+
+      <p class="speaker viktor">Viktor:</p>
+      <p>That doesn’t hide the fact that we treat animals so badly. And I know you’re going to counter this by saying all the things around growth and how we have much better food or whatever. But this “progress” gave us things like climate change, microplastics in our food, loss of our privacy. All because of these profit-rent seeking systems.</p>
+      
+      <p class="speaker sofia">Sofia:</p>
+      <p>Before tackling those accusations, tell me this. How does our society still having problems to solve somehow translate to us being fundamentally bad? (This is something I don’t yet understand, which a lot of people like you try to argue with). What is this? Is this some sort of a victim mentality? Some sort of an escape for you to not think about the harder questions in life? A justification for you to be lazy and pretend to be a “<a href="https://blog.rootsofprogress.org/why-pessimism-sounds-smart">smart pessimist</a>” (and let me break it to you, you, my friend, are not smart).</p>
+
+
+      <p>Let’s not talk about others, mate. You are living a very good life, what else do you need? What “resources” do you not have? What “opportunities” do you want? Or are you silently wishing that equality of opportunity is equal to equality of outcomes?</p>
+      <p>Sorry, I may have gotten ahead of myself. Let’s answer the climate question.</p>
+
+
+      <p>Yes, the earth is heating, and (“<a href="https://caseyhandmer.wordpress.com/2023/06/06/we-should-not-let-the-earth-overheat/">we should not let the earth overheat</a>”). I’m assuming you are on the side of people who accept that carbon emissions lead to global warming because FYI there is an entire side of scientists who don’t believe in that. But anyways. Where has the burning of fossil fuels gotten us? Do you want me to go through it all again? Fertilizers, thus unlimited food? Air conditioning? Transport? Better clothes? Cheaper concrete? Cheaper metals? A GREAT LIFE? I would still ask you to reconsider your assumptions even NOW, and try to ask yourself a <a href="https://www.cuttingthroughthenoise.net/hard-questions">a few hard questions</a>. Specifically, why shouldn’t we burn all the fossil fuels we can get our hands on (because it is really a great thing), give people access to cheap energy and try to uplift all the people we can out of poverty so they can become more wealthy and we can <a href="https://www.youtube.com/watch?v=anFm0rKidkY">become more capable as a civilization to handle even more problems including climate change?</a></p>
+
+
+
+
+      <p>As for the other ones, they broadly hover around the question of whether “capitalism is ethical”, or can capitalism handle moral questions. I’ll be honest and accept that I don’t yet have a very good case for it, but I’d intuitively say the answer lies in seeing the costs and benefits to society, and if things take care of themselves in the long term. I am decently confident that having social media and f***ing plastics has given asymmetrically more upside to our society than any negative connotations you can give here. (I don’t think I have to justify this, do I?)</p>
+      <p>And BTW, how do you feel now that your “evil” capitalism is the exact thing which is fueling the rapid decarbonization of the grid through solar; to the point that solar is now the cheapest source of electricity in many places on the planet and WILL become the cheapest source of electricity <a href="https://rameznaam.com/2019/04/02/the-third-phase-of-clean-energy-will-be-the-most-disruptive-yet/">everywhere</a>?</p>
+
+      <p class="speaker viktor">Viktor:</p>
+      <p>But isn’t capitalism bad? That most of the value is accrued at the top? That it forces us to buy its products, forces us to be consumers? It’s all dirty politicians and big CEOs detached from reality.</p>
+      
+      <p class="speaker sofia">Sofia:</p>
+      <p>You are talking about consumerism. That these big CEOs “force” you to buy things. I have a few disconnected intuitions to refute this, but yes, disconnected for now.</p>
+      <ul>
+          <li>You use the same phone as the richest person on the planet. Can you for 2 minutes understand the weight behind this statement?</li>
+          <li>You need to have a mental model of how you think actual “democratization” of goods and services happens, and who makes it happen? Check this <a href="https://x.com/_r3sist/status/1796962891804840161">thread</a>.</li>
+          <li>Can you accept <a href="https://www.deirdremccloskey.com/articles/bd/greatfact.php">a great fact</a>? That this life you are living is not the default state because it has never been. It’s not been long when all this happened. You need NOT only accept that something right happened in the last 100 years but you should feel a sense of <a href="https://matreja.me/posts/2024/fair.html">urgency</a> that this might not last forever. That is why we <a href="https://blog.rootsofprogress.org/what-is-a-philosophy-of-progress">need</a> a philosophy of progress, a <a href="https://blog.rootsofprogress.org/why-a-new-philosophy-of-progress">new one</a> at that.</li>
+          <li>Hasn’t free markets and capitalism been a very big part of these last 100 years? How can you refute millions of people in India rising out of poverty after the socialist license raj system was abolished, and we embraced free markets?</li>
+          <li>Why shouldn’t Elon have the wealth he has? Isn’t he “democratizing” space? Won’t he take us to Mars? Isn’t Tesla actually solving your “climate change”? Wealth allows one to allocate resources. Even in the olden times science and R&D was funded by wealthy patrons.</li>
+          <li>Sure there are problems, but shouldn’t you personally be wanting to solve them?</li>
+      </ul>
+      
+      <p class="speaker viktor">Viktor:</p>
+      <p>Even if you could convince me of all this, why are we having this debate anyway? Why would I care about a “philosophy” of progress? And you said “but shouldn’t you personally be wanting to solve them?” - WHY would I care?</p>
+      
+      <p class="speaker sofia">Sofia:</p>
+      <p>WHY WOULD YOU CARE?.......</p>
+
+      <br> <br>
+      <p><em>part 2 soon...</em></p>
+
+
+
+
+  </div>
+</body>
+
+
+
