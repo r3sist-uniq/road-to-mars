@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<style>
+  @media (prefers-color-scheme: dark) {
+      body {
+          background-color: #1c1c1c;
+          color: white;
+      }
+      .markdown-body table tr {
+          background-color: #1c1c1c;
+      }
+      .markdown-body table tr:nth-child(2n) {
+          background-color: black;
+      }
+  }
+  </style>
+
+<link rel="alternate" type="application/rss+xml" href="../../feed.xml" title="a tech tree">
+
+<link rel="stylesheet" type="text/css" href="../../css/common-vendor.b8ecfc406ac0b5f77a26.css">
+<link rel="stylesheet" type="text/css" href="../../css/fretboard.f32f2a8d5293869f0195.css">
+<link rel="stylesheet" type="text/css" href="../../css/pretty.0ae3265014f89d9850bf.css">
+<link rel="stylesheet" type="text/css" href="../../css/pretty-vendor.83ac49e057c3eac4fce3.css">
+<link rel="stylesheet" type="text/css" href="../../css/global.css">
+<link rel="stylesheet" type="text/css" href="../../css/misc.css">
+<link rel="icon" type="image/png" href="../../images/space-at-last.png">
+
+<script type="text/x-mathjax-config">
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\(', '\)']]
+  },
+  svg: {
+    fontCache: 'global',
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async
+  src="../../scripts/tex-svg.js">
+</script>
+
+<style>
+</style>
+
+<div id="doc" class="container-fluid markdown-body comment-enabled" data-hard-breaks="true">
+
+<div id="color-mode-switch">
+  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
+  </svg>
+  <input type="checkbox" id="switch" />
+  <label for="switch">Dark Mode Toggle</label>
+  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
+  </svg>
+</div>
+
+<script type="text/javascript">
+  // Update root html class to set CSS colors
+  const toggleDarkMode = () => {
+    const root = document.querySelector('html');
+    root.classList.toggle('dark');
+  }
+
+  // Update local storage value for colorScheme
+  const toggleColorScheme = () => {
+    const colorScheme = localStorage.getItem('colorScheme');
+    if (colorScheme === 'light') localStorage.setItem('colorScheme', 'dark');
+    else localStorage.setItem('colorScheme', 'light');
+  }
+
+  // Set toggle input handler
+  const toggle = document.querySelector('#color-mode-switch input[type="checkbox"]');
+  if (toggle) toggle.onclick = () => {
+    toggleDarkMode();
+    toggleColorScheme();
+  }
+
+  // Check for color scheme on init
+  const checkColorScheme = () => {
+    const colorScheme = localStorage.getItem('colorScheme');
+    // Default to light for first view
+    if (colorScheme === null || colorScheme === undefined) localStorage.setItem('colorScheme', 'light');
+    // If previously saved to dark, toggle switch and update colors
+    if (colorScheme === 'dark') {
+      toggle.checked = true;
+      toggleDarkMode();
+    }
+  }
+  checkColorScheme();
+</script>
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="a tech tree" />
+<meta name="twitter:image" content="./images/space-at-last.png" />
+
+<br>
+<h1 style="margin-bottom:7px">Capital allocation and the Tech Tree</h1>
+<small style="float:left; color: #888"> 6 November 2024 </small>
+<small style="float:right; color: #888"><a href="../../index.html">See all posts</a></small>
+<br> <br> <br>
+
+<title>A tech tree</title>
+
+<h3>
+  Where we are, how did we get here and how to get back to the future?
+  </h3>
+
+  <div style="text-align: center;">
+    <img src="https://secondbrains.s3.ap-south-1.amazonaws.com/media/1076254970619899.jpg" alt="Technology Tree" width="500">
+  </div>
+
+  <img src="" style="width: 600px; margin-left: 20px; margin-bottom: 9px;" class="padded" />
+
+  <div align="center"><h4>A sense of urgency</h4></div>
+
+  <p>The world is nascent. The life we all live is very new, and we aren’t even supposed to be living it. This is not the default state of our civilization because it has never been one. The entire history of human beings has been one of “short, poverty-stricken, ignorant, and fearful lifetimes”. The myth of romanticism is indeed a myth, and a terrible one at that. We are in our infancy. Can you accept a great fact that something very strange happened 200 years ago? </p>
+
+  <p>How can you take everything around you so much for granted? Why don’t you have a subtle sense of urgency? The underpinnings of our modern world seem fragile, fuzzy and confusing, almost like no one really knows what is going on. They seem extremely complex and extremely simple at the same time. If this is, really, all so new then tell us, what is the road to heaven and do you even want it? Tell us, how would you save the world from apocalypse? Do you know?
+  </p>
+
+  <div align="center"><h4>But really? Do you know? (spoiler: nope)</h4></div>
+
+  <p>That where we are? How did we get here? And how to get back to the future? How did we build this world and how does it work? No? Does anyone? You say that there is no need to know or we simply can’t, that is indefinite thinking at its peak, and we don’t choose to believe that. 
+  </p>
+
+  <p>Do you know where are we on the civilizational blueprint? Tech is discovered, not invented. Imagine an alien civilization watching us. How are they judging us, our progress? What is that blueprint anyways? (some alien is watching down on us and laughing!) 
+  </p>
+
+  <p>A civilization is characterized by its industrial infrastructure. Characterized by our ability to control our environment (which requires knowledge). Why don’t we have a simple program that encapsulates the peak of our material abilities and the best of our social structures discovered? What’s the simplest and the cleanest pull request for industrializing a barren land? A (simple) playbook on how did we get here? How would you speedrun red Mars, green Mars, and blue Mars?
+  </p>
+
+  <p>We want to understand the world, but more importantly the world needs to understand itself. It is deeply inefficient, maybe nobody knows what is going on. But if “the biggest secret is that there are many secrets left to be found”, how are you finding them? And what is the most objective way to find them? (everything is a just knowledge problem) 
+  </p>
+
+  <div align="center"><h4>A (not so) subtle dichotomy</h4></div>
+
+  <p>Although our progress has been vastly unimaginable (for most but not all, there were those who dared to imagine), there is a case to be made that humanity is merely in its infancy. Most of our planet is still not industrialized, most of our the people on Earth still do not enjoy a life of abundance. Most do not enjoy life at all. 
+  </p>
+
+  <p>The American Project worked, and it worked wonders. And the rest of the planet, for the past century, has been trying to replicate just that. But very poorly. The globalization project is far, far from over. It hasn’t even begun properly, it probably never did. Why?
+  </p>
+
+  <p>Clearly, the story of modern society has been a story of industrialization. 
+  </p>
+
+  <div align="center"><h4>So…maybe the meaning of life is to play factorio (and play it better).</h4></div>
+
+  <p>But how to play? We need a moon’s view of earth, a map of industrial civilization, a map because it either represents reality or it does not. It either helps people navigate or it does not. It either works or it does not. A simple, detailed, live map of industrial civilization. A tech tree. 
+  </p>
+
+  <div align="center"><h3>On a tech tree. On a map.</h3></div>
+  <br>
+  <div style="text-align: center;">
+    <img src="https://wiki.factorio.com/images/thumb/Technology_tree.png/1437px-Technology_tree.png" alt="Technology Tree" width="400">
+  </div>
+
+  <br>
+  <p>In varying levels of details and abstractions, from the most meta scale to the most specific supply chains of varying complexities of produce, we as a civilization have been progressing on a material and a social tech tree. 
+  </p>
+
+  <div align="center"><h4>A (simple) playbook of industrialization.</h4></div>
+
+  <p>The idea of creating such a playbook is a singular focused exercise into deeply understanding what it means for a country to be an industrial autarky (both technically and socially), a simple exercise into understand to how industrialize barren lands. 
+  </p>
+
+  <p>Into understanding where we are, what worked and what did not? Culmination of humanity’s finest insights into knowing how would we do it all over again? In the most excruciating detail possible. Because we argue, it’s all a knowledge problem - and this is how you will industrialize of all earth and then mars. Globalization done right, because Factorio + IRL = mars.
+  </p>
+
+  <div align="center"><h4>An intuition.</h4></div>
+
+  <p>Imagine how did our civilization get to the point where we can build a starship, or manufacture lithography machines at scale? Not the jargon that people write about, but to the point and to a level of detail where you can navigate building in an industrial civilization. To the point where you have a map. 
+  </p>
+
+  <p>Why a map? Because we are in the business of understanding the planet and not writing fiction, or coming up with yet another "theory" of history. 
+  </p>
+
+  <p>People say that the world is too complex. That no one is “driving the wheel”. It is very hard to take this at face value. Unless you think it’s all randomness and nothing is in control. But what about believing in the right kind of optimism, and human agency? We owe it to the people who make and have made our life possible. 
+  </p>
+
+  <p>And don’t the major institutes which drive (and drove) progress on Earth seem like the most obvious ones (albeit retrospectively) and even low hanging fruits in the grand cosmos of things? That they stretch and form a moat around a branch of a human tech tree. Perhaps trillion dollar companies should be common. 
+  </p>
+
+  <p>But why does this map, and this “tree” doesn’t exist? A few have tried (like the Foresight Longevity Tech tree), but you can argue all sorts of reasons. Some simple and some subtler ones. But we are not yet sure. But doesn’t it seem the most objective thing for a civilization? It does to us atleast. Have you played factorio, satisfactory, space engineers or dyson sphere? If yes, you get the intuition. 
+  </p>
+
+  <div align="center"><h4>On using the map.</h4></div>
+
+  <ul style="list-style-type: none;">
+    <li>- Teenagers from any corner of the planet having the ability, in the most straightforward manner, to find deep inefficiencies and choose to manufacture from a 100 different things needed around the world.</li>
+    <li>- Ability for governments to do industrial policy (the right way).</li>
+    <li>- Speedrun building factories (know which ones and how to build them).</li>
+    <li>- Explain the frontiers on Earth (the end of our tech tree) and the most efficient routes to get past those barriers.</li>
+    <li>- Founders having a very detailed playbook for the right kind of social organizations which work and have worked for the most functional of institutes. (Imagine a “Not Boring” founder’s playbook.)</li>
+    <li>- Explain where the DARPAs of our time are.</li>
+    <li>- Get (way) better at industrialization.</li>
+    <li>- Ability for us to understand the supposedly complex roots of our modern social contracts.</li>
+    <li>- Fix extremely fragile foundations.</li>
+    <li>- Identify trillion-dollar companies that no one is making yet.</li>
+    <li>- Kickstart the Mars industrial complex.</li>
+  </ul>
+
+  <p>And most of all, a map will allow us to allocate capital efficiently. In the virtue and pursuit of limitless abundance on earth, to play factorio IRL and our quest for the stars (starting with mars). Which brings us to:
+  </p>  
+
+  <div align="center"><h3>A flywheel and the tech tree.</h3></div>
+    
+
+    <div align="center"><h4>Why does a fund building a tech tree makes the most sense?</h4></div>
+
+    <p>You can research all you want. You can spend all the time you want in building a “tech tree”, in trying to understand “the world” in your little Lala land. But If you can’t deliver shippable intermediaries, you are scam. If this research can’t be used on day one, it is nothing more than mere a fable. If you don’t have skin in the game and a forcing function to stay as true to reality as possible, you are simply a fraud. 
+    </p>
+
+    <p>Only capital allocators can try to understand the world in ways it has not been tried. As written, “the invisible hand is more visible in venture capital than it is in any other asset class”
+    </p>
+
+    <p>There are layers and layers and layers and layers of abstractions in how our industrial world works that most people who can make a dent would never simply know. Even though markets are great at identifying arbitrages, the efficient market hypothesis is simply false. How? Just look around you.
+    </p>
+
+    <p>There are niches on our planet that most capital allocators will never look at. 
+    </p>
+
+    <p>A fund researching and working with a map is simply a fund trying to be brutally definite and come up with a sourcing engine that’s not merely based on randomness and serendipity. Sorry, but those are a poor man’s gold. And we are no poor. Imagine a reverse fund. Can you?
+    </p>
+
+    <p>All of life is an engineering and a resource allocation problem. Our task here is simply to be definitive in finding esoteric corners of our industrial society, propelling and helping other human beings who want to and can industrialize our planet, who otherwise won’t be. Period.
+    </p>
+
+    <p>It’s a conspiracy in being ruthless in understanding where we are and what futures we want to build! And build them. Because we are not boring.
+    </p>
+
+    
+    <div align="center"><h3>Why [redacted] ?</h3></div>
+
+    <p>Will release this part some day.</p>
+
+
+
