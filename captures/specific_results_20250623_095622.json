@@ -1,0 +1,1986 @@
+[
+  {
+    "collectionSlug": "later-dump",
+    "sortBy": "-first_connection_at",
+    "shuffleSeed": null,
+    "type": "all",
+    "current": "1",
+    "next": "2",
+    "previous": null,
+    "feed": [
+      {
+        "uuid": "e858c19b-3adb-488a-b17c-04814d5333d0",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/38ae9d3de2434c948ecf5a3472dfbf84/thumbnail.jpg",
+        "name": "How Evolution Invented Faith: The Patience of the Penguin and the Art of Withstanding Abandonment",
+        "slug": "how-evolution-invented-faith-the-patience-of-the-penguin-and-the-art-of-withstanding-abandonment",
+        "author": "Maria Popova",
+        "link": {
+          "url": "http://www.themarginalian.org/2024/08/17/penguin",
+          "label": "www.themarginalian.org"
+        },
+        "numberOfPublicHighlights": 1,
+        "info": null,
+        "feedIdentifier": "e858c19b-3adb-488a-b17c-04814d5333d0-1",
+        "numberOfConnections": 1,
+        "isPublic": false,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": false,
+          "createPrivateLink": true,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": false
+          },
+          "makePublic": true,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "e858c19b-3adb-488a-b17c-04814d5333d0",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "7109aab8-dce3-480d-9fad-11438ca7f87c",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/0f0ddad7e2e44fbdb26dc775929095a9/thumbnail.jpg",
+        "name": "Venereal Disease and the Prostitution Policy of the British Raj",
+        "slug": "venereal-disease-and-the-prostitution-policy-of-the-british-raj",
+        "author": "Guest Author",
+        "link": {
+          "url": "http://hindupost.in/history/venereal-disease-and-the-prostitution-policy-of-the-british-raj",
+          "label": "hindupost.in"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "7109aab8-dce3-480d-9fad-11438ca7f87c-1",
+        "numberOfConnections": 1,
+        "isPublic": false,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": {
+          "notes": [
+            {
+              "author": null,
+              "content": "<p>so sad… (claude summary: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://claude.ai/share/f01ba2ff-5f5f-4ed6-bc45-f156876209ce\">https://claude.ai/share/f01ba2ff-5f5f-4ed6-bc45-f156876209ce</a>)</p>",
+              "uuid": "c2c63391-991b-4675-997b-149631f0826a"
+            }
+          ],
+          "others": 0
+        },
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": {
+          "html": "<p>so sad… (claude summary: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://claude.ai/share/f01ba2ff-5f5f-4ed6-bc45-f156876209ce\">https://claude.ai/share/f01ba2ff-5f5f-4ed6-bc45-f156876209ce</a>)</p>",
+          "uuid": "c2c63391-991b-4675-997b-149631f0826a"
+        },
+        "can": {
+          "share": false,
+          "createPrivateLink": true,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": false,
+          "editNote": true,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": false
+          },
+          "makePublic": true,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "7109aab8-dce3-480d-9fad-11438ca7f87c",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "247c4baf-7fb6-414e-9c3a-b4021581e540",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/85c5d6acd703427fbc88ccb32a30bc47/thumbnail.jpg",
+        "name": "One of the best things is being alone",
+        "slug": "one-of-the-best-things-is-being-alone",
+        "author": "Shaun Usher",
+        "link": {
+          "url": "http://news.lettersofnote.com/p/one-of-the-best-things-is-being-alone",
+          "label": "news.lettersofnote.com"
+        },
+        "numberOfPublicHighlights": 1,
+        "info": null,
+        "feedIdentifier": "247c4baf-7fb6-414e-9c3a-b4021581e540-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": false
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "247c4baf-7fb6-414e-9c3a-b4021581e540",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "29707271-2da1-4447-976d-9e3afe27787c",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/dc555afba3754b4db951a5965e36bfac/thumbnail.jpg",
+        "name": "On Medici and Thiel",
+        "slug": "on-medici-and-thiel",
+        "author": "Rohit Krishnan",
+        "link": {
+          "url": "http://www.strangeloopcanon.com/p/on-medici-and-thiel",
+          "label": "www.strangeloopcanon.com"
+        },
+        "numberOfPublicHighlights": 4,
+        "info": null,
+        "feedIdentifier": "29707271-2da1-4447-976d-9e3afe27787c-1",
+        "numberOfConnections": 1,
+        "isPublic": false,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": false,
+          "createPrivateLink": true,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": false
+          },
+          "makePublic": true,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "29707271-2da1-4447-976d-9e3afe27787c",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "6e3c5af8-e56d-47b4-bed3-c58e8afa46c2",
+        "entityType": "curation.link",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/11e2eecbaa1b4c02a6be68b1985d0010/thumbnail.jpg",
+        "name": "The Routledge Handbook of Nostalgia | Are.na",
+        "slug": "the-routledge-handbook-of-nostalgia-are-na",
+        "link": {
+          "url": "http://www.are.na/block/34787332",
+          "label": "www.are.na"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "6e3c5af8-e56d-47b4-bed3-c58e8afa46c2-1",
+        "numberOfConnections": 1,
+        "isPublic": false,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": false,
+          "createPrivateLink": true,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": false
+          },
+          "makePublic": true,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "6e3c5af8-e56d-47b4-bed3-c58e8afa46c2",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "374271fd-3ca2-48fd-8a24-974d5e20f396",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/dd1c19259e204be99d07efe0e0e512b2/thumbnail.jpg",
+        "name": "In Defense of Boredom: 200 Years of Ideas on the Virtues of Not-Doing from Some of Humanity’s Greatest Minds",
+        "slug": "in-defense-of-boredom-200-years-of-ideas-on-the-virtues-of-not-doing-from-some-of-humanitys-greatest",
+        "link": {
+          "url": "http://www.themarginalian.org/2015/03/16/boredom",
+          "label": "www.themarginalian.org"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "374271fd-3ca2-48fd-8a24-974d5e20f396-1",
+        "numberOfConnections": 1,
+        "isPublic": false,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": false,
+          "createPrivateLink": true,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": false
+          },
+          "makePublic": true,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "374271fd-3ca2-48fd-8a24-974d5e20f396",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "3244320f-312c-4adc-8392-f8fadfc59a8b",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/3bf818ff2016465fa3c8414605202f50/thumbnail.jpg",
+        "name": "The Master and Margarita",
+        "slug": "the-master-and-margarita-3244320f312c4adc",
+        "author": "Mikhail Bulgakov",
+        "link": {
+          "url": "http://en.wikipedia.org/wiki/The_Master_and_Margarita",
+          "label": "en.wikipedia.org"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "3244320f-312c-4adc-8392-f8fadfc59a8b-1",
+        "numberOfConnections": 1,
+        "isPublic": false,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": false,
+          "createPrivateLink": true,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": false
+          },
+          "makePublic": true,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "3244320f-312c-4adc-8392-f8fadfc59a8b",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "8f36888f-4e3b-45a8-ba06-62b1852e797a",
+        "entityType": "curation.video",
+        "embedURL": {
+          "href": "https://www.youtube-nocookie.com/embed/QTuHyCf8tWw",
+          "iFrameHeight": null
+        },
+        "thumbnail": null,
+        "nativeVideo": null,
+        "name": "Journey To The Baltic Sea | Part 2",
+        "slug": "journey-to-the-baltic-sea-part-2",
+        "link": {
+          "url": "http://www.youtube.com/watch?v=QTuHyCf8tWw",
+          "label": "www.youtube.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "8f36888f-4e3b-45a8-ba06-62b1852e797a-1",
+        "numberOfConnections": 1,
+        "isPublic": false,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": false,
+          "createPrivateLink": true,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": false
+          },
+          "makePublic": true,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "8f36888f-4e3b-45a8-ba06-62b1852e797a",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "502c61eb-9bcb-4d67-9c7e-ddfad915fd56",
+        "entityType": "curation.book",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/97affab46aea41b38a7524a0ed45409f/thumbnail.png",
+        "name": "The Full Stack of Society: Can You Make A Whole Society Wealthier? [Full Version] | Conrad Bastable",
+        "slug": "the-full-stack-of-society-can-you-make-a-whole-society-wealthier-full-version-conrad-bastable",
+        "link": {
+          "url": "http://www.conradbastable.com/essays/the-full-stack-of-society-can-you-make-a-whole-society-wealthier-full-version",
+          "label": "www.conradbastable.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "502c61eb-9bcb-4d67-9c7e-ddfad915fd56-1",
+        "numberOfConnections": 1,
+        "isPublic": false,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": false,
+          "createPrivateLink": true,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": false
+          },
+          "makePublic": true,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "502c61eb-9bcb-4d67-9c7e-ddfad915fd56",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "fe59e7dc-5d4a-4246-95eb-10349c57bee1",
+        "entityType": "curation.link",
+        "name": "The History of Perspective",
+        "slug": "the-history-of-perspective",
+        "link": {
+          "url": "http://www.essentialvermeer.com/technique/perspective/history.html",
+          "label": "www.essentialvermeer.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "fe59e7dc-5d4a-4246-95eb-10349c57bee1-1",
+        "numberOfConnections": 1,
+        "isPublic": false,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": false,
+          "createPrivateLink": true,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": false
+          },
+          "makePublic": true,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "fe59e7dc-5d4a-4246-95eb-10349c57bee1",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      }
+    ]
+  },
+  {
+    "collectionSlug": "later-dump",
+    "sortBy": "-first_connection_at",
+    "shuffleSeed": null,
+    "type": "all",
+    "current": "2",
+    "next": "3",
+    "previous": null,
+    "feed": [
+      {
+        "uuid": "d2b30cce-35e8-4046-ba71-2456178faf1f",
+        "entityType": "curation.audio",
+        "embedURL": null,
+        "name": "28 slightly rude notes on writing",
+        "slug": "www-experimental-history-com-p-28-slightly-rude-notes-on-writing",
+        "link": {
+          "url": "http://www.experimental-history.com/p/28-slightly-rude-notes-on-writing",
+          "label": "www.experimental-history.com"
+        },
+        "numberOfPublicHighlights": 14,
+        "info": null,
+        "feedIdentifier": "d2b30cce-35e8-4046-ba71-2456178faf1f-2",
+        "numberOfConnections": 10,
+        "isPublic": false,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": true,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": true,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": false
+          },
+          "makePublic": true,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "d2b30cce-35e8-4046-ba71-2456178faf1f",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "aa83c7d4-e25c-4867-9b00-25128053965c",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/efe57ae55107470f9b3360edd0b46e4e/thumbnail.jpg",
+        "name": "All the Nerds Are Dead - By Sam Kriss - Numb at the Lodge",
+        "slug": "all-the-nerds-are-dead",
+        "author": "Sam Kriss",
+        "link": {
+          "url": "http://samkriss.substack.com/p/all-the-nerds-are-dead",
+          "label": "samkriss.substack.com"
+        },
+        "numberOfPublicHighlights": 3,
+        "info": null,
+        "feedIdentifier": "aa83c7d4-e25c-4867-9b00-25128053965c-2",
+        "numberOfConnections": 4,
+        "isPublic": false,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": true,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": true,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": false
+          },
+          "makePublic": true,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "aa83c7d4-e25c-4867-9b00-25128053965c",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "8a2fbfe1-2333-4505-8f53-e6b518efa8d5",
+        "entityType": "curation.video",
+        "embedURL": {
+          "href": "https://www.youtube-nocookie.com/embed/Y0c5nIvJH7w",
+          "iFrameHeight": null
+        },
+        "thumbnail": null,
+        "nativeVideo": null,
+        "name": "Graham Hancock - The War on Consciousness BANNED TED TALK",
+        "slug": "graham-hancock-the-war-on-consciousness-banned-ted-talk",
+        "link": {
+          "url": "http://www.youtube.com/watch?v=Y0c5nIvJH7w",
+          "label": "www.youtube.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "8a2fbfe1-2333-4505-8f53-e6b518efa8d5-2",
+        "numberOfConnections": 2,
+        "isPublic": false,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": true,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": false
+          },
+          "makePublic": true,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "8a2fbfe1-2333-4505-8f53-e6b518efa8d5",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "2fe4bf75-f744-42ee-8213-a996bba95855",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/4c3214853118492d942027a5b5fe2320/thumbnail.jpg",
+        "name": "why are we lying to young people about work?",
+        "slug": "why-are-we-lying-to-young-people-about-work",
+        "author": "Maalvika",
+        "link": {
+          "url": "http://open.substack.com/pub/maalvika/p/why-are-we-lying-to-young-people",
+          "label": "open.substack.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "2fe4bf75-f744-42ee-8213-a996bba95855-2",
+        "numberOfConnections": 12,
+        "isPublic": false,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": true,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": true,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": false
+          },
+          "makePublic": true,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "2fe4bf75-f744-42ee-8213-a996bba95855",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "a825e3d2-1bb3-4de5-b871-ae0669a0f970",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/3be47c7546a14149ac5664143b67f284/thumbnail.jpg",
+        "name": "Why the French Don’t Obsess Over Purpose",
+        "slug": "why-the-french-dont-obsess-over-purpose-a825e3d21bb34de5",
+        "author": "Pamela Clapp",
+        "link": {
+          "url": "http://open.substack.com/pub/theparisialite/p/why-the-french-dont-obsess-over-purpose",
+          "label": "open.substack.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "a825e3d2-1bb3-4de5-b871-ae0669a0f970-2",
+        "numberOfConnections": 4,
+        "isPublic": false,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": true,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": true,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": false
+          },
+          "makePublic": true,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "a825e3d2-1bb3-4de5-b871-ae0669a0f970",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "4cbeb2e8-23a6-44c0-9301-736b8ff55206",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/818ea21a866b49d6bbddf5816ea15055/thumbnail.jpg",
+        "name": "Placemaking and the Human Scale City",
+        "slug": "placemaking-and-the-human-scale-city",
+        "author": "Stephen Burke",
+        "link": {
+          "url": "http://www.pps.org/article/placemaking-and-the-human-scale-city",
+          "label": "www.pps.org"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "4cbeb2e8-23a6-44c0-9301-736b8ff55206-2",
+        "numberOfConnections": 2,
+        "isPublic": false,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": true,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": false
+          },
+          "makePublic": true,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "4cbeb2e8-23a6-44c0-9301-736b8ff55206",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "b82d59b6-28d0-4557-82a0-4a0803281375",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/ca18c902cc1e4b1eb28c5102c7e80324/thumbnail.jpg",
+        "name": "The Production Capital Mosaic",
+        "slug": "the-production-capital-mosaic",
+        "author": "Brett Bivens",
+        "link": {
+          "url": "http://venturedesktop.substack.com/p/the-production-capital-mosaic",
+          "label": "venturedesktop.substack.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "b82d59b6-28d0-4557-82a0-4a0803281375-2",
+        "numberOfConnections": 1,
+        "isPublic": false,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": false,
+          "createPrivateLink": true,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": false
+          },
+          "makePublic": true,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "b82d59b6-28d0-4557-82a0-4a0803281375",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "ae9d5aaf-0a14-4db8-b6f5-cf9768abe267",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/9b019cb5f3dd4b25a3c504514799f09a/thumbnail.jpg",
+        "name": "The Rise of Production Capital",
+        "slug": "the-rise-of-production-capital-ae9d5aaf0a144db8",
+        "author": "William Godfrey",
+        "link": {
+          "url": "http://venturedesktop.substack.com/p/the-rise-of-production-capital",
+          "label": "venturedesktop.substack.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "ae9d5aaf-0a14-4db8-b6f5-cf9768abe267-2",
+        "numberOfConnections": 2,
+        "isPublic": false,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": false,
+          "createPrivateLink": true,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": false
+          },
+          "makePublic": true,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "ae9d5aaf-0a14-4db8-b6f5-cf9768abe267",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "23ce7c11-c0f8-468d-9157-4d3bad03f4fa",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/3ad9a924c7984fa1915f7a7dfcb3cfc1/thumbnail.png",
+        "name": "Addition by Subtraction",
+        "slug": "addition-by-subtraction-23ce7c11c0f8468d",
+        "author": "Andy Weissman",
+        "link": {
+          "url": "http://blog.aweissman.com/2018/02/addition-by-subtraction.html",
+          "label": "blog.aweissman.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "23ce7c11-c0f8-468d-9157-4d3bad03f4fa-2",
+        "numberOfConnections": 1,
+        "isPublic": false,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": false,
+          "createPrivateLink": true,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": false
+          },
+          "makePublic": true,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "23ce7c11-c0f8-468d-9157-4d3bad03f4fa",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "83711fef-7358-4fb7-9a1f-32ec3244aeca",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/84971e163b5a48128be490b338b183c4/thumbnail.jpg",
+        "name": "Seven Miracles of Venture Research",
+        "slug": "seven-miracles-of-venture-research-83711fef73584fb7",
+        "author": "Brett Bivens",
+        "link": {
+          "url": "http://venturedesktop.substack.com/p/seven-miracles-of-venture-research",
+          "label": "venturedesktop.substack.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "83711fef-7358-4fb7-9a1f-32ec3244aeca-2",
+        "numberOfConnections": 2,
+        "isPublic": false,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": false,
+          "createPrivateLink": true,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": false
+          },
+          "makePublic": true,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "83711fef-7358-4fb7-9a1f-32ec3244aeca",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      }
+    ]
+  },
+  {
+    "collectionSlug": "later-dump",
+    "sortBy": "-first_connection_at",
+    "shuffleSeed": null,
+    "type": "all",
+    "current": "3",
+    "next": "4",
+    "previous": "2",
+    "feed": [
+      {
+        "uuid": "60b0aa58-1b7d-446e-8d29-0d695aa568ff",
+        "entityType": "curation.link",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/fe509182147f443cba8db8611d309800/thumbnail.jpg",
+        "name": "Samo Burja and the New Private Intellectual",
+        "slug": "samo-burja-and-the-new-private-intellectual",
+        "link": {
+          "url": "http://letter.otherlife.co/p/samo-burja-new-private-intellectual",
+          "label": "letter.otherlife.co"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "60b0aa58-1b7d-446e-8d29-0d695aa568ff-3",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": false
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "60b0aa58-1b7d-446e-8d29-0d695aa568ff",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "0148c76d-3d60-4126-80ff-7ecf0138610d",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/969e177b3dd746a2b3b7c54d0eb37c7e/thumbnail.png",
+        "name": "The Gentle Singularity",
+        "slug": "the-gentle-singularity",
+        "author": "Sam Altman",
+        "link": {
+          "url": "http://blog.samaltman.com/the-gentle-singularity",
+          "label": "blog.samaltman.com"
+        },
+        "numberOfPublicHighlights": 1,
+        "info": null,
+        "feedIdentifier": "0148c76d-3d60-4126-80ff-7ecf0138610d-3",
+        "numberOfConnections": 6,
+        "isPublic": false,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": true,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": false
+          },
+          "makePublic": true,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "0148c76d-3d60-4126-80ff-7ecf0138610d",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "4672a33a-d53e-4533-95d6-6a0bf79a115a",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/c5a022e297b24630af1fbb6de6d71acc/thumbnail.jpg",
+        "name": "Scale: Rational in the Fullness of Time",
+        "slug": "scale-rational-in-the-fullness-of-time",
+        "author": "Packy McCormick",
+        "link": {
+          "url": "http://www.notboring.co/p/scale-rational-in-the-fullness-of",
+          "label": "www.notboring.co"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "4672a33a-d53e-4533-95d6-6a0bf79a115a-3",
+        "numberOfConnections": 2,
+        "isPublic": false,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": true,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": false
+          },
+          "makePublic": true,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "4672a33a-d53e-4533-95d6-6a0bf79a115a",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "f5356b47-55af-454a-b03b-6ddbe847dcd6",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/10e0de8822f34068bbcdec8dc0e91bb8/thumbnail.jpg",
+        "name": "Modern Magnificenza",
+        "slug": "modern-magnificenza",
+        "author": "Packy McCormick",
+        "link": {
+          "url": "http://www.notboring.co/p/modern-magnificenza",
+          "label": "www.notboring.co"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "f5356b47-55af-454a-b03b-6ddbe847dcd6-3",
+        "numberOfConnections": 1,
+        "isPublic": false,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": false,
+          "createPrivateLink": true,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": false
+          },
+          "makePublic": true,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "f5356b47-55af-454a-b03b-6ddbe847dcd6",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "a26e9cb1-3302-42a8-905a-4fbfb6e12045",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/dfbb77ed56074dadb7864fa0c8402225/thumbnail.jpg",
+        "name": "What should science cost?",
+        "slug": "what-should-science-cost",
+        "author": "David Lang",
+        "link": {
+          "url": "http://davidlang.substack.com/p/costs",
+          "label": "davidlang.substack.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "a26e9cb1-3302-42a8-905a-4fbfb6e12045-3",
+        "numberOfConnections": 1,
+        "isPublic": false,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": {
+          "notes": [
+            {
+              "author": null,
+              "content": "<p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://claude.ai/share/a93a9680-9c76-4da0-8f74-eaa1e37d22ae\">https://claude.ai/share/a93a9680-9c76-4da0-8f74-eaa1e37d22ae</a></p>",
+              "uuid": "cd226ca0-5c47-4148-b64e-e30654b2e907"
+            }
+          ],
+          "others": 0
+        },
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": {
+          "html": "<p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://claude.ai/share/a93a9680-9c76-4da0-8f74-eaa1e37d22ae\">https://claude.ai/share/a93a9680-9c76-4da0-8f74-eaa1e37d22ae</a></p>",
+          "uuid": "cd226ca0-5c47-4148-b64e-e30654b2e907"
+        },
+        "can": {
+          "share": false,
+          "createPrivateLink": true,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": false,
+          "editNote": true,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": false
+          },
+          "makePublic": true,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "a26e9cb1-3302-42a8-905a-4fbfb6e12045",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "c12da6ad-0263-4615-b9cc-481ef6818c96",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/9e9f22de59f94c4cabcdaa90e168742f/thumbnail.jpg",
+        "name": "Focused Research Organizations to Accelerate Science, Technology, and Medicine - Federation of American Scientists",
+        "slug": "focused-research-organizations-to-accelerate-science-technology-and-medicine-federation-of-american-",
+        "author": "Adam Marblestone",
+        "link": {
+          "url": "http://fas.org/publication/focused-research-organizations-to-accelerate-science-technology-and-medicine",
+          "label": "fas.org"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "c12da6ad-0263-4615-b9cc-481ef6818c96-3",
+        "numberOfConnections": 1,
+        "isPublic": false,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": false,
+          "createPrivateLink": true,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": false
+          },
+          "makePublic": true,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "c12da6ad-0263-4615-b9cc-481ef6818c96",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      }
+    ]
+  }
+]
