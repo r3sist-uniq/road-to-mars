@@ -1,0 +1,924 @@
+[
+  {
+    "collectionSlug": "later-dump",
+    "sortBy": "-first_connection_at",
+    "shuffleSeed": null,
+    "type": "all",
+    "current": "1",
+    "next": "2",
+    "previous": null,
+    "feed": [
+      {
+        "uuid": "15478d1e-cde0-427e-a542-1813cffe5373",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/59fe378dc39942509825d3513ab12d35/thumbnail.png",
+        "name": "V. Parting Thoughts - SITUATIONAL AWARENESS",
+        "slug": "v-parting-thoughts-situational-awareness",
+        "link": {
+          "url": "http://situational-awareness.ai/parting-thoughts",
+          "label": "situational-awareness.ai"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "15478d1e-cde0-427e-a542-1813cffe5373-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "15478d1e-cde0-427e-a542-1813cffe5373",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "aefe15f6-2bc7-4071-8174-9a0338ddbd56",
+        "entityType": "curation.link",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/3ca1d42ef114433f8ef41dc44f2fd06f/thumbnail.png",
+        "name": "Dark souls saved my life",
+        "slug": "r-darksouls-reddit",
+        "link": {
+          "url": "http://www.reddit.com/r/darksouls/comments/if2m0g/dark_souls_saved_my_life",
+          "label": "www.reddit.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "aefe15f6-2bc7-4071-8174-9a0338ddbd56-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "aefe15f6-2bc7-4071-8174-9a0338ddbd56",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "0b1c9341-7d5b-4f57-bcb3-3f63ee92363c",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/2776ec9f33cb4b17b3ab4e550150cdf0/thumbnail.jpg",
+        "name": "Minimum Viable Muscle: The Least You Must Do To Not Fall Apart",
+        "slug": "minimum-viable-muscle-the-least-you-must-do-to-not-fall-apart",
+        "author": "vittorio",
+        "link": {
+          "url": "http://substack.com/home/post/p-160795230",
+          "label": "substack.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "0b1c9341-7d5b-4f57-bcb3-3f63ee92363c-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "0b1c9341-7d5b-4f57-bcb3-3f63ee92363c",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "efc308fc-b05d-4762-94de-065a28bac166",
+        "entityType": "curation.video",
+        "embedURL": {
+          "href": "https://www.youtube-nocookie.com/embed/NlOJKt615_I",
+          "iFrameHeight": null
+        },
+        "thumbnail": null,
+        "nativeVideo": null,
+        "name": "Doraemon still has the most soothing BGM..",
+        "slug": "doraemon-still-has-the-most-soothing-bgm",
+        "link": {
+          "url": "http://www.youtube.com/watch?v=NlOJKt615_I",
+          "label": "www.youtube.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "efc308fc-b05d-4762-94de-065a28bac166-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "efc308fc-b05d-4762-94de-065a28bac166",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "9cb8e0c3-85aa-440b-8f46-a06c81bf512e",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/d5ba02b324da4a2b9d670ff6da9db3db/thumbnail.png",
+        "name": "Solitude, light and awe",
+        "slug": "solitude-light-and-awe",
+        "author": "Geoffrey Baines",
+        "link": {
+          "url": "http://thinsilence.org/2021/12/23/solitude-light-and-awe",
+          "label": "thinsilence.org"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "9cb8e0c3-85aa-440b-8f46-a06c81bf512e-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "9cb8e0c3-85aa-440b-8f46-a06c81bf512e",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "75d735c1-aa61-48f7-a0dd-8a053b230ad0",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/40fcfa639dd34601bd2da10c08d341d5/thumbnail.jpg",
+        "name": "Solitude, Silence, Stillness",
+        "slug": "solitude-silence-stillness",
+        "author": "Ken",
+        "link": {
+          "url": "http://paradelle.wordpress.com/2015/07/19/solitude-silence-stillness",
+          "label": "paradelle.wordpress.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "75d735c1-aa61-48f7-a0dd-8a053b230ad0-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "75d735c1-aa61-48f7-a0dd-8a053b230ad0",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "475b5a93-1b68-43ec-83ef-2e8b8554f2b8",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/babf8c34c2e349feb3f75d41f9b96929/thumbnail.jpg",
+        "name": "The Integrity of Parting Ways: Rilke on Unwounding Separation and the Difficult Art of Reimagining Broken Relationships",
+        "slug": "the-integrity-of-parting-ways-rilke-on-unwounding-separation-and-the-difficult-art-of-reimagining-br",
+        "author": "Maria Popova",
+        "link": {
+          "url": "http://www.themarginalian.org/2018/09/26/rilke-breakup",
+          "label": "www.themarginalian.org"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "475b5a93-1b68-43ec-83ef-2e8b8554f2b8-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "475b5a93-1b68-43ec-83ef-2e8b8554f2b8",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "1117166c-1e1b-4418-8d3e-2b48af681e2a",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/20ee9498e98a4583afc6ded83db832c2/thumbnail.jpg",
+        "name": "Relationship Rupture and the Limbic System: The Physiology of Abandonment and Separation",
+        "slug": "relationship-rupture-and-the-limbic-system-the-physiology-of-abandonment-and-separation",
+        "author": "Maria Popova",
+        "link": {
+          "url": "http://www.themarginalian.org/2022/09/06/general-theory-of-love-separation",
+          "label": "www.themarginalian.org"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "1117166c-1e1b-4418-8d3e-2b48af681e2a-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "1117166c-1e1b-4418-8d3e-2b48af681e2a",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "a18c9a93-06e5-4e2d-b6f3-238053fde70e",
+        "entityType": "curation.audio",
+        "embedURL": null,
+        "name": "The Legacy of George Soros’ Open Society",
+        "slug": "the-legacy-of-george-soros-open-society",
+        "link": {
+          "url": "http://brief.bismarckanalysis.com/p/the-legacy-of-george-soros-open-society",
+          "label": "brief.bismarckanalysis.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "a18c9a93-06e5-4e2d-b6f3-238053fde70e-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "a18c9a93-06e5-4e2d-b6f3-238053fde70e",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "9be561e7-19a9-4d67-b401-be6566d611ad",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/2b24be7724d94076a705b004b4c8d245/thumbnail.jpg",
+        "name": "What's The Deal With The Industrial Revolution",
+        "slug": "what-s-the-deal-with-the-industrial-revolution",
+        "author": "Ben Landau-Taylor",
+        "link": {
+          "url": "http://www.benlandautaylor.com/p/whats-the-deal-with-the-industrial",
+          "label": "www.benlandautaylor.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "9be561e7-19a9-4d67-b401-be6566d611ad-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "9be561e7-19a9-4d67-b401-be6566d611ad",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      }
+    ]
+  },
+  {
+    "collectionSlug": "later-dump",
+    "sortBy": "-first_connection_at",
+    "shuffleSeed": null,
+    "type": "all",
+    "current": "2",
+    "next": "3",
+    "previous": null,
+    "feed": [
+      {
+        "uuid": "88fb492e-e0a7-4c5c-8743-6063b8da3e16",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/8c24505eeeb4447c84362b0d34f6edee/thumbnail.jpg",
+        "name": "How State Capacity Drives Industrialization",
+        "slug": "how-state-capacity-drives-industrialization",
+        "author": "Oberon Dixon-Luinenburg",
+        "link": {
+          "url": "http://www.palladiummag.com/2020/02/12/how-state-capacity-drives-industrialization",
+          "label": "www.palladiummag.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "88fb492e-e0a7-4c5c-8743-6063b8da3e16-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "88fb492e-e0a7-4c5c-8743-6063b8da3e16",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "54d5f22f-61da-4f1b-9bc4-ed41524ef949",
+        "entityType": "curation.link",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/fc17082e3fed48778926b8da44a7a59e/thumbnail.png",
+        "name": "How Tech Created the Online Fact-Checking Industry",
+        "slug": "how-tech-created-the-online-fact-checking-industry",
+        "link": {
+          "url": "http://www.piratewires.com/p/how-tech-created-the-online-fact-checking-industry",
+          "label": "www.piratewires.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "54d5f22f-61da-4f1b-9bc4-ed41524ef949-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "dump",
+            "from": "54d5f22f-61da-4f1b-9bc4-ed41524ef949",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      }
+    ]
+  }
+]
