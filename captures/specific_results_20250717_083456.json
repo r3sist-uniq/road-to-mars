@@ -1,0 +1,1897 @@
+[
+  {
+    "collectionSlug": "later-dump",
+    "sortBy": "-first_connection_at",
+    "shuffleSeed": null,
+    "type": "all",
+    "current": "1",
+    "next": "2",
+    "previous": null,
+    "feed": [
+      {
+        "uuid": "1787c0dd-b4bc-4558-a854-fd76680d5709",
+        "entityType": "curation.link",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/c3353b26ed204986aa2c972f40e71785/thumbnail.jpg",
+        "name": "Collection of spaces that hugged me | Are.na",
+        "slug": "collection-of-spaces-that-hugged-me-are-na",
+        "link": {
+          "url": "http://www.are.na/iris-xu-aynarrdcmqm/collection-of-spaces-that-hugged-me",
+          "label": "www.are.na"
+        },
+        "numberOfPublicHighlights": 0,
+        "content": null,
+        "author": null,
+        "info": null,
+        "feedIdentifier": "1787c0dd-b4bc-4558-a854-fd76680d5709-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "1787c0dd-b4bc-4558-a854-fd76680d5709",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "6335e607-d431-43f8-8031-f3d58124e58e",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/f3272f0991284b3780a165b1f6fffd1f/thumbnail.jpg",
+        "name": "Psychic Shit Happens All The Time",
+        "slug": "psychic-shit-happens-all-the-time",
+        "author": "Kristin Posehn",
+        "link": {
+          "url": "http://kristinposehn.substack.com/p/psychicshit",
+          "label": "kristinposehn.substack.com"
+        },
+        "numberOfPublicHighlights": 9,
+        "info": null,
+        "feedIdentifier": "6335e607-d431-43f8-8031-f3d58124e58e-1",
+        "numberOfConnections": 5,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": true,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "6335e607-d431-43f8-8031-f3d58124e58e",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "2bd12d3b-d9b0-4467-9ffb-7ccaa5630c07",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/b8016bb810b9430d97883ce2d9df8750/thumbnail.jpg",
+        "name": "He who controls the system prompt controls the universe",
+        "slug": "he-who-controls-the-system-prompt-controls-the-universe",
+        "author": "Ziv Reichert",
+        "link": {
+          "url": "http://transcribedmedia.substack.com/p/he-who-controls-the-system-prompt",
+          "label": "transcribedmedia.substack.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "2bd12d3b-d9b0-4467-9ffb-7ccaa5630c07-1",
+        "numberOfConnections": 5,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": true,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "2bd12d3b-d9b0-4467-9ffb-7ccaa5630c07",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "eb61cb1b-2f74-441c-82f5-c70007ce96d6",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/ec87b07ce0374ea88ee7a6a6cda6c279/thumbnail.jpg",
+        "name": "How to Walk and Talk",
+        "slug": "how-to-walk-and-talk",
+        "author": "Craig Mod",
+        "link": {
+          "url": "http://craigmod.com/ridgeline/043",
+          "label": "craigmod.com"
+        },
+        "numberOfPublicHighlights": 6,
+        "info": null,
+        "feedIdentifier": "eb61cb1b-2f74-441c-82f5-c70007ce96d6-1",
+        "numberOfConnections": 7,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": true,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "eb61cb1b-2f74-441c-82f5-c70007ce96d6",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "a618e508-a7ff-4d0e-be8e-3a7f299f402f",
+        "entityType": "curation.video",
+        "embedURL": {
+          "href": "https://www.youtube-nocookie.com/embed/2MapkAQwATM",
+          "iFrameHeight": null
+        },
+        "thumbnail": null,
+        "nativeVideo": null,
+        "name": "Hotz Destroys Hypesters",
+        "slug": "hotz-destroys-hypesters",
+        "link": {
+          "url": "http://www.youtube.com/watch?v=2MapkAQwATM",
+          "label": "www.youtube.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "description": null,
+        "author": null,
+        "info": null,
+        "feedIdentifier": "a618e508-a7ff-4d0e-be8e-3a7f299f402f-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "a618e508-a7ff-4d0e-be8e-3a7f299f402f",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "1e3a2b3e-e5c4-4ec9-977d-981d4820581b",
+        "entityType": "curation.video",
+        "embedURL": {
+          "href": "https://www.youtube-nocookie.com/embed/7EldWhPUxuE",
+          "iFrameHeight": null
+        },
+        "thumbnail": null,
+        "nativeVideo": null,
+        "name": "Judgment At Nuremberg (1961)",
+        "slug": "judgment-at-nuremberg-1961",
+        "link": {
+          "url": "http://www.youtube.com/watch?v=7EldWhPUxuE",
+          "label": "www.youtube.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "description": "Judgment At Nuremberg (1961) TopicsJudgment,Nuremburg,Nazi,World War,Atrocities,Jews,Death Camps,Trial,Racist Judgment At Nuremberg (1961)",
+        "author": null,
+        "info": null,
+        "feedIdentifier": "1e3a2b3e-e5c4-4ec9-977d-981d4820581b-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "1e3a2b3e-e5c4-4ec9-977d-981d4820581b",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "9af5ab5f-17c0-48d9-9826-6f4e2263b08c",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/dec1eff3e6574cadb1b2ee4b1d226f28/thumbnail.jpg",
+        "name": "Academia2.0 Could Look More Like Startups",
+        "slug": "academia2-0-could-look-more-like-startups",
+        "author": "Dan",
+        "link": {
+          "url": "http://www.punkrockbio.com/p/academia20-could-look-more-like-startups",
+          "label": "www.punkrockbio.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "9af5ab5f-17c0-48d9-9826-6f4e2263b08c-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "9af5ab5f-17c0-48d9-9826-6f4e2263b08c",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "db53b74a-6ee6-4b46-8166-4ec5f6685504",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/3c1f148582664285912608336e26c2b8/thumbnail.jpg",
+        "name": "The Hard Future Facing Foxconn",
+        "slug": "the-hard-future-facing-foxconn",
+        "author": null,
+        "link": {
+          "url": "http://brief.bismarckanalysis.com/p/the-hard-future-facing-foxconn",
+          "label": "brief.bismarckanalysis.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "db53b74a-6ee6-4b46-8166-4ec5f6685504-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "db53b74a-6ee6-4b46-8166-4ec5f6685504",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "96fbc340-8603-47bf-b5a5-c567596b0461",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/be8c39fcb26142d6a19b1c46d7af9b4c/thumbnail.jpg",
+        "name": "The Dropout Curriculum",
+        "slug": "the-dropout-curriculum",
+        "author": null,
+        "link": {
+          "url": "http://engineeringx.substack.com/p/the-dropout-curriculum",
+          "label": "engineeringx.substack.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "96fbc340-8603-47bf-b5a5-c567596b0461-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "96fbc340-8603-47bf-b5a5-c567596b0461",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "d5fb5b49-1d34-47e0-8c2f-61b0fb8fa07d",
+        "entityType": "curation.video",
+        "embedURL": {
+          "href": "https://www.youtube-nocookie.com/embed/2dGIcOWE8yQ",
+          "iFrameHeight": null
+        },
+        "thumbnail": null,
+        "nativeVideo": null,
+        "name": "Speculative Technologies, Materials & Manufacturing: unlocking innovations underpinning civilization",
+        "slug": "speculative-technologies-materials-manufacturing-unlocking-innovations-underpinning-civilization",
+        "link": {
+          "url": "http://www.youtube.com/watch?v=2dGIcOWE8yQ&list=PLHL7KfMBqcoB16bU0pp1_8uVPoc6BUREo",
+          "label": "www.youtube.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "description": "From the Bronze Age to Silicon Valley, civilizations are defined by the materials they can create and make into useful things. But in the 21st century this powerful engine of progress needs maintenance. This talk will unpack the futures that new materials and manufacturing processes could unlock, why they so often fall into the “valley of death” between invention and impact, and what we can do to bridge that gap. Recorded at the 2024 Progress Conference in Berkeley, CA, by @freethink, a sponsor of the event.",
+        "author": null,
+        "info": null,
+        "feedIdentifier": "d5fb5b49-1d34-47e0-8c2f-61b0fb8fa07d-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "d5fb5b49-1d34-47e0-8c2f-61b0fb8fa07d",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      }
+    ]
+  },
+  {
+    "collectionSlug": "later-dump",
+    "sortBy": "-first_connection_at",
+    "shuffleSeed": null,
+    "type": "all",
+    "current": "2",
+    "next": "3",
+    "previous": null,
+    "feed": [
+      {
+        "uuid": "0bf74c6a-a263-4fd5-8404-6ddbac939fb4",
+        "entityType": "curation.video",
+        "embedURL": {
+          "href": "https://www.youtube-nocookie.com/embed/j1LkismJp8g",
+          "iFrameHeight": null
+        },
+        "thumbnail": null,
+        "nativeVideo": null,
+        "name": "Howard Roark Speech - The Fountainhead ----- (My favorite F you speech of all time)",
+        "slug": "howard-roark-speech-the-fountainhead-my-favorite-f-you-speech-of-all-time",
+        "link": {
+          "url": "http://www.youtube.com/watch?v=j1LkismJp8g",
+          "label": "www.youtube.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "description": "The Fountainhead",
+        "author": null,
+        "info": null,
+        "feedIdentifier": "0bf74c6a-a263-4fd5-8404-6ddbac939fb4-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "0bf74c6a-a263-4fd5-8404-6ddbac939fb4",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "f8bea9f0-0fdb-4fc7-b517-7d605ecbfe45",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/c169bf686c054ffd8c1d8753c192ccf6/thumbnail.png",
+        "name": "Building Data Centers in Iceland: The Land of Fire and Ice - JSA",
+        "slug": "building-data-centers-in-iceland-the-land-of-fire-and-ice-jsa",
+        "author": null,
+        "link": {
+          "url": "http://www.jsa.net/building-data-centers-in-iceland-the-land-of-fire-and-ice",
+          "label": "www.jsa.net"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "f8bea9f0-0fdb-4fc7-b517-7d605ecbfe45-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "f8bea9f0-0fdb-4fc7-b517-7d605ecbfe45",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "2141320d-a4fb-4336-bded-6574fc5de3f4",
+        "entityType": "curation.video",
+        "embedURL": {
+          "href": "https://www.youtube-nocookie.com/embed/0a3eM7lcVTI",
+          "iFrameHeight": null
+        },
+        "thumbnail": null,
+        "nativeVideo": null,
+        "name": "How to apply the artistry of Death Stranding to creating as an auteur",
+        "slug": "how-to-apply-the-artistry-of-death-stranding-to-creating-as-an-auteur",
+        "link": {
+          "url": "http://www.youtube.com/watch?v=0a3eM7lcVTI",
+          "label": "www.youtube.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "description": "Hideo Kojima created a true masterpiece. Find out what practices helped this amazing game come together. 🛡 A mission to cure loneliness in society ♟ Resolute decisionmaking, not just doing the popular thing 💥 Action: knowing what to delegate, outsource, and do yourself 🎭 Showmanship that sets the tone These things taken together allow teams to create something that has never existed before. Death Stranding is no exception. Here's the full transcript if you prefer to read: https://blog.garrytan.com/the-4-habits-of-auteurs-that-made-hideo-kojimas-video-game-masterpiece-death-stranding I'm Garry Tan, venture capitalist and cofounder at Initialized Capital. We were earliest investors in billion dollar startups like Coinbase and Instacart, and we're spending time with some of our best founders to learn the secrets of their success and see the future they're building. I'm doing my own run-and-gun one man YouTube channel with no staff or crew - we're going for raw and unfiltered, not perfect. Please like this video...",
+        "author": null,
+        "info": null,
+        "feedIdentifier": "2141320d-a4fb-4336-bded-6574fc5de3f4-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "2141320d-a4fb-4336-bded-6574fc5de3f4",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "5c202cda-af79-4a23-836b-1faa2d4df737",
+        "entityType": "curation.video",
+        "embedURL": {
+          "href": "https://www.youtube-nocookie.com/embed/YMfd3EoHfPI",
+          "iFrameHeight": null
+        },
+        "thumbnail": null,
+        "nativeVideo": null,
+        "name": "Stephen Kotkin — How Stalin Became the Most Powerful Dictator in History",
+        "slug": "stephen-kotkin-how-stalin-became-the-most-powerful-dictator-in-history",
+        "link": {
+          "url": "http://www.youtube.com/watch?v=YMfd3EoHfPI",
+          "label": "www.youtube.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "description": "Stephen Kotkin is arguably the world’s foremost expert on Joseph Stalin and has written a massive 2-volume biography about him (with a 3rd volume in the works). No other individual had more of a profound impact on the 20th century than Stalin. He held the power of life and death over every single person across 11 time zones, and he killed tens of millions of people, utterly consumed by an ideology aimed at building paradise on Earth. And he was one half of the biggest and most consequential military confrontation in history (even if Hitler didn’t prove to be his match). Read the transcript: https://www.dwarkesh.com/p/stephen-kotkin Apple Podcasts: https://podcasts.apple.com/us/podcast/dwarkesh-podcast/id1516093381?i=1000716709877 Spotify: https://open.spotify.com/episode/0Wb7GWB1DmmO8Jw3ILPavW?si=2bcf0bfa96b442ba ---------------------------------------- SPONSORS * Lighthouse is THE fastest immigration solution for the technology industry. All they need is your resume or LinkedIn profile to tell you which visas you’re most eligible for, and they’ll send you this eligibility document for free,...",
+        "author": null,
+        "info": null,
+        "feedIdentifier": "5c202cda-af79-4a23-836b-1faa2d4df737-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "5c202cda-af79-4a23-836b-1faa2d4df737",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "24d5982c-d5a4-4439-85d5-1ecb0a124710",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/fe65d7426cfa41798a0eb00e65114650/thumbnail.png",
+        "name": "Supersonic electric flight",
+        "slug": "supersonic-electric-flight",
+        "author": null,
+        "link": {
+          "url": "http://caseyhandmer.wordpress.com/2020/11/18/supersonic-electric-flight",
+          "label": "caseyhandmer.wordpress.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "24d5982c-d5a4-4439-85d5-1ecb0a124710-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "24d5982c-d5a4-4439-85d5-1ecb0a124710",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "7a00c3fb-ea5a-41b7-9951-84c712824b48",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/65d0a4e89af64cd5821b511cd2289495/thumbnail.png",
+        "name": "Shopify",
+        "slug": "shopify-investment-memo",
+        "author": "Bessemer Venture Partners",
+        "link": {
+          "url": "http://www.bvp.com/memos/shopify",
+          "label": "www.bvp.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "7a00c3fb-ea5a-41b7-9951-84c712824b48-2",
+        "numberOfConnections": 2,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "7a00c3fb-ea5a-41b7-9951-84c712824b48",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "8bacbab1-6017-40ba-be0e-4e5655fd3645",
+        "entityType": "contribution.highlight",
+        "slug": "new-tools-for-ai-assisted-literature-analysis-thro",
+        "content": {
+          "isTruncated": false,
+          "truncatedHtml": "New tools for AI assisted literature analysis through efforts like those at <a href=\"https://www.futurehouse.org/\">Future House and the release of OpenAI’s Deep Research means that</a> the marginal cost of a landscape analysis of existing literature is going down fast, but nothing beats candid conversations with the people behind the work.",
+          "originalHtml": "New tools for AI assisted literature analysis through efforts like those at <a href=\"https://www.futurehouse.org/\">Future House and the release of OpenAI’s Deep Research means that</a> the marginal cost of a landscape analysis of existing literature is going down fast, but nothing beats candid conversations with the people behind the work."
+        },
+        "source": {
+          "slug": "a-beginners-guide-to-scientific-roadmapping",
+          "name": "A Beginner’s Guide to Scientific Roadmapping",
+          "url": "https://www.essentialtechnology.blog/p/scientific-roadmapping",
+          "author": "Adam Marblestone"
+        },
+        "info": null,
+        "feedIdentifier": "8bacbab1-6017-40ba-be0e-4e5655fd3645-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "8bacbab1-6017-40ba-be0e-4e5655fd3645",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "693067bc-1122-4cc1-b33e-2adb09a8f3fe",
+        "entityType": "contribution.highlight",
+        "slug": "the-field-of-scientific-roadmapping-is-a-nascent-o",
+        "content": {
+          "isTruncated": false,
+          "truncatedHtml": "The field of scientific roadmapping is a nascent one",
+          "originalHtml": "The field of scientific roadmapping is a nascent one"
+        },
+        "source": {
+          "slug": "a-beginners-guide-to-scientific-roadmapping",
+          "name": "A Beginner’s Guide to Scientific Roadmapping",
+          "url": "https://www.essentialtechnology.blog/p/scientific-roadmapping",
+          "author": "Adam Marblestone"
+        },
+        "info": null,
+        "feedIdentifier": "693067bc-1122-4cc1-b33e-2adb09a8f3fe-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "693067bc-1122-4cc1-b33e-2adb09a8f3fe",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "ac44616c-00b8-40c4-a0ff-7221fd9e41cc",
+        "entityType": "curation.link",
+        "name": "Examples of barbell strategies",
+        "slug": "examples-of-barbell-strategies-ac44616c00b840c4",
+        "link": {
+          "url": "http://web.archive.org/web/20220309155302/https://dwarkeshpatel.com/barbell-strategies",
+          "label": "web.archive.org"
+        },
+        "numberOfPublicHighlights": 0,
+        "content": null,
+        "author": null,
+        "info": null,
+        "feedIdentifier": "ac44616c-00b8-40c4-a0ff-7221fd9e41cc-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "ac44616c-00b8-40c4-a0ff-7221fd9e41cc",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "b7dc9d11-6e35-4d73-a1c9-e41faab51da7",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/672b5acb096d45108653acb3711155a7/thumbnail.png",
+        "name": "Things You're Allowed to Do",
+        "slug": "things-you-re-allowed-to-do",
+        "author": "milan.cvitkovic.net",
+        "link": {
+          "url": "http://milan.cvitkovic.net/writing/things_youre_allowed_to_do",
+          "label": "milan.cvitkovic.net"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "b7dc9d11-6e35-4d73-a1c9-e41faab51da7-2",
+        "numberOfConnections": 11,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "b7dc9d11-6e35-4d73-a1c9-e41faab51da7",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      }
+    ]
+  },
+  {
+    "collectionSlug": "later-dump",
+    "sortBy": "-first_connection_at",
+    "shuffleSeed": null,
+    "type": "all",
+    "current": "3",
+    "next": "4",
+    "previous": "2",
+    "feed": [
+      {
+        "uuid": "1d9e9566-c7f4-4782-a361-e15e3d99f5cc",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/7d2c70749dd946249cfb2e18fe6c2789/thumbnail.png",
+        "name": "Market Failures in Science",
+        "slug": "market-failures-in-science",
+        "author": null,
+        "link": {
+          "url": "http://milan.cvitkovic.net/writing/market_failures_in_science",
+          "label": "milan.cvitkovic.net"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "1d9e9566-c7f4-4782-a361-e15e3d99f5cc-3",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "1d9e9566-c7f4-4782-a361-e15e3d99f5cc",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "3ddcf059-ad19-478a-8e45-d1994c461e7a",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/ada1442e0774439382763f09e5e459f9/thumbnail.jpg",
+        "name": "A Better Way to Build a Downtown",
+        "slug": "a-better-way-to-build-a-downtown",
+        "author": "Noah Smith",
+        "link": {
+          "url": "http://www.noahpinion.blog/p/a-better-way-to-build-a-downtown",
+          "label": "www.noahpinion.blog"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "3ddcf059-ad19-478a-8e45-d1994c461e7a-3",
+        "numberOfConnections": 9,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": true,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "3ddcf059-ad19-478a-8e45-d1994c461e7a",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "1519c674-d628-4540-9439-34dd2713d126",
+        "entityType": "curation.video",
+        "embedURL": {
+          "href": "https://www.youtube-nocookie.com/embed/oEBowzX28IE",
+          "iFrameHeight": null
+        },
+        "thumbnail": null,
+        "nativeVideo": null,
+        "name": "Covering Chernobyl - The Impossible Task",
+        "slug": "covering-chernobyl-the-impossible-task",
+        "link": {
+          "url": "http://www.youtube.com/watch?v=oEBowzX28IE",
+          "label": "www.youtube.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "description": "This video tells the story of containing the exposed reactor 4’s core, by building the original Chernobyl Sarcophagus. An emergency shelter built in extreme conditions, using dangerous methods, and with little room for error. I’ve spent hours reconstructing the project using archival photos, forgotten blueprints, and never-before-seen animations. This is the story of one of the most complex and dangerous construction projects ever attempted. Creative Commons Attribution, sources and map files: https://docs.google.com/document/d/1uNZbZON4orca4QPDW_XLq2_BDhy5-u677_GExV4NK8E/edit?tab=t.0 All music and sound effects are from Artlist.",
+        "author": null,
+        "info": null,
+        "feedIdentifier": "1519c674-d628-4540-9439-34dd2713d126-3",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "1519c674-d628-4540-9439-34dd2713d126",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "39db2005-f290-456e-9be2-f95ccce1650a",
+        "entityType": "curation.link",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/637ad127c5a94f34b1b00cd595505187/thumbnail.jpg",
+        "name": "˚₊‧꒰ა dream languages .˚ ༘🦋⋆｡˚ | Are.na",
+        "slug": "shya-dream-languages-are-na",
+        "link": {
+          "url": "http://www.are.na/oneiric-space/dream-languages",
+          "label": "www.are.na"
+        },
+        "numberOfPublicHighlights": 0,
+        "content": null,
+        "author": null,
+        "info": null,
+        "feedIdentifier": "39db2005-f290-456e-9be2-f95ccce1650a-3",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": {
+          "notes": [
+            {
+              "author": null,
+              "content": "<p>what did u dream?</p>",
+              "uuid": "40eef951-5543-4106-a898-099ecb5988e0"
+            }
+          ],
+          "others": 0
+        },
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": {
+          "html": "<p>what did u dream?</p>",
+          "uuid": "40eef951-5543-4106-a898-099ecb5988e0"
+        },
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": false,
+          "editNote": true,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "39db2005-f290-456e-9be2-f95ccce1650a",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      }
+    ]
+  }
+]
