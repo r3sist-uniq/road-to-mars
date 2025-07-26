@@ -20814,5 +20814,1651 @@
         }
       }
     ]
+  },
+  {
+    "collectionSlug": "later-dump",
+    "sortBy": "-first_connection_at",
+    "shuffleSeed": null,
+    "type": "all",
+    "current": "1",
+    "next": "2",
+    "previous": null,
+    "feed": [
+      {
+        "uuid": "30e2b74e-c66e-42a1-9d08-283760b929e7",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/041d05c2ae144917b6280cab569c48ae/thumbnail.jpg",
+        "name": "Why Do Victims of Massacres Go Quietly to Their Deaths?",
+        "slug": "why-do-victims-of-massacres-go-quietly-to-their-deaths",
+        "author": null,
+        "link": {
+          "url": "http://www.benlandautaylor.com/p/why-do-victims-of-massacres-go-quietly",
+          "label": "www.benlandautaylor.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "30e2b74e-c66e-42a1-9d08-283760b929e7-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "30e2b74e-c66e-42a1-9d08-283760b929e7",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "9d83c918-b24d-4e61-acd0-b66cf0b4e398",
+        "entityType": "curation.video",
+        "embedURL": {
+          "href": "https://www.youtube-nocookie.com/embed/nBImv1mlcMg",
+          "iFrameHeight": null
+        },
+        "thumbnail": null,
+        "nativeVideo": null,
+        "name": "Abandoned Steam Engine Brought Back to Life! - 1908 Industrial Time Capsule",
+        "slug": "abandoned-steam-engine-brought-back-to-life-1908-industrial-time-capsule",
+        "link": {
+          "url": "http://www.youtube.com/watch?v=nBImv1mlcMg",
+          "label": "www.youtube.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "description": "Thanks to MANSCAPED for sponsoring today’s video! Get 20% OFF + Free International Shipping with our promo code “PROPERPEOPLE” at https://manscaped.com/properpeople Watch as a steam engine installed in 1908 comes back to life after sitting abandoned for 85 years! Our friend Alex Karnes will be our guide to the workings of this beautiful machine, as well as to many of the other mechanical antiquities that can be found within the walls of the water works. We and Alex would like to thank everyone at the city of Woburn who made this possible, including Mayor Scott Galvin, City Engineer Jay Corey, DPW Deputy Superintendent Leonard Burnham, Plant Operators Scott Johnson and Jon Morales, and the Woburn Fire Department. Additional thanks to John Roderick and Frank Killoren. Find Alex on YouTube @AEKarnes and Facebook https://www.facebook.com/alexander.karnes http://theproperpeople.com JOIN US ON: http://facebook.com/theproperpeople http://twitter.com/theproperpeople http://instagram.com/theproperpeople https://www.reddit.com/r/theproperpeople https://tiktok.com/@theproperpeople https://discord.gg/theproperpeople Thanks to Musicbed for providing the music...",
+        "author": null,
+        "info": null,
+        "feedIdentifier": "9d83c918-b24d-4e61-acd0-b66cf0b4e398-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "9d83c918-b24d-4e61-acd0-b66cf0b4e398",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "e63a9df1-3ecf-4b34-a716-8675bbe9a8bf",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/4ad2c6b735894eff9bfb00237972cd42/thumbnail.jpg",
+        "name": "Wealth Is Compressed Entropy",
+        "slug": "wealth-is-compressed-entropy",
+        "author": null,
+        "link": {
+          "url": "http://louis030195.substack.com/p/wealth-is-compressed-entropy",
+          "label": "louis030195.substack.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "e63a9df1-3ecf-4b34-a716-8675bbe9a8bf-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "e63a9df1-3ecf-4b34-a716-8675bbe9a8bf",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "caeb730d-d3fd-4ff4-9b97-4699525651e6",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/1aa528c225cf4369aab6e3ba18905f8f/thumbnail.jpg",
+        "name": "Cognitive crossfit: 30-minute scientific workouts with AI",
+        "slug": "cognitive-crossfit-30-minute-scientific-workouts-with-ai",
+        "author": null,
+        "link": {
+          "url": "http://louis030195.substack.com/p/cognitive-crossfit-30-minute-scientific",
+          "label": "louis030195.substack.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "caeb730d-d3fd-4ff4-9b97-4699525651e6-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "caeb730d-d3fd-4ff4-9b97-4699525651e6",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "31e33ede-7fd2-47e0-99e8-0e2e9394a7e7",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/9f087399a69547848f05d9fb5d861868/thumbnail.jpg",
+        "name": "how to jhana in 500 words",
+        "slug": "how-to-jhana-in-500-words",
+        "author": null,
+        "link": {
+          "url": "http://www.blissbrah.blog/p/how-to-jhana-in-500-words",
+          "label": "www.blissbrah.blog"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "31e33ede-7fd2-47e0-99e8-0e2e9394a7e7-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "31e33ede-7fd2-47e0-99e8-0e2e9394a7e7",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "f4bf4fef-2cab-4a3d-931c-c0daa7701caa",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/d4ef514de55d41d79b2796f263e0b1e1/thumbnail.jpg",
+        "name": "Stockholm International Peace Research Institute",
+        "slug": "stockholm-international-peace-research-institute",
+        "author": null,
+        "link": {
+          "url": "http://en.wikipedia.org/wiki/Stockholm_International_Peace_Research_Institute",
+          "label": "en.wikipedia.org"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "f4bf4fef-2cab-4a3d-931c-c0daa7701caa-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "f4bf4fef-2cab-4a3d-931c-c0daa7701caa",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "d432bbc8-e9f8-424a-9114-59ce03077ca6",
+        "entityType": "curation.article",
+        "name": "Government Pension Fund of Norway",
+        "slug": "government-pension-fund-of-norway",
+        "author": null,
+        "link": {
+          "url": "http://en.wikipedia.org/wiki/Government_Pension_Fund_of_Norway",
+          "label": "en.wikipedia.org"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "d432bbc8-e9f8-424a-9114-59ce03077ca6-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "d432bbc8-e9f8-424a-9114-59ce03077ca6",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "dc0af6ac-bf6c-44e0-a409-45b96d3b56c1",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/e549eae5d5664dbe9e4e68f616968a05/thumbnail.jpg",
+        "name": "The Dark Forest: Theory of the Internet",
+        "slug": "the-dark-forest-theory-of-the-internet-dc0af6acbf6c44e0",
+        "author": null,
+        "link": {
+          "url": "http://blokmagazine.com/the-dark-forest-theory-of-the-internet",
+          "label": "blokmagazine.com"
+        },
+        "numberOfPublicHighlights": 1,
+        "info": null,
+        "feedIdentifier": "dc0af6ac-bf6c-44e0-a409-45b96d3b56c1-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "dc0af6ac-bf6c-44e0-a409-45b96d3b56c1",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "f4ec594c-50e5-407b-9de4-3438f0c47abb",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/a20aefac77454bd7970fdc0768b51adb/thumbnail.png",
+        "name": "Backblaze: A Loss-Making Data Storage Business Mired in Lawsuits, Sham Accounting, and Brazen Insider Dumping",
+        "slug": "backblaze-a-loss-making-data-storage-business-mired-in-lawsuits-sham-accounting-and-brazen-insider-d",
+        "author": "Morpheus Research LLC",
+        "link": {
+          "url": "http://www.morpheus-research.com/backblaze",
+          "label": "www.morpheus-research.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "f4ec594c-50e5-407b-9de4-3438f0c47abb-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "f4ec594c-50e5-407b-9de4-3438f0c47abb",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "7b69c0df-bf4c-4901-86af-3e7bbbf49dbe",
+        "entityType": "curation.tweet",
+        "images": [],
+        "slug": "www-x-com-seanmccarthycom-status-1948159082294120759",
+        "content": {
+          "isTruncated": true,
+          "truncatedHtml": "Stray thoughts after spending a week in China (Beijing, Nanjing, and Shanghai):\n\n-Every American should visit if they have the opportunity. You’ll be told so much about China in the coming years and while visiting once does not make you an expert you’ll at least be able to sort out some of the more blatant lies.\n\n-As someone who has visited many US... <span class='text-silver-font whitespace-nowrap hover:underline cursor-pointer'>See more</span>",
+          "originalHtml": "Stray thoughts after spending a week in China (Beijing, Nanjing, and Shanghai):\n\n-Every American should visit if they have the opportunity. You’ll be told so much about China in the coming years and while visiting once does not make you an expert you’ll at least be able to sort out some of the more blatant lies.\n\n-As someone who has visited many US and European cities the first thing that will strike you here is the cleanliness. Almost no litter. Very little dog poop in the streets, few cigarette butts even though there are a lot more smokers. I only found one piece of graffiti which was appropriately enough a spray painted penis on an out of the way wall. You will see uniformed workers in the street with brooms and dustpans keeping things tidy. What a novel concept!\n\n-Street crime is almost nonexistent. I never once felt unsafe. Nobody ever accosted me for money. In the entire time I saw one person in Shanghai quietly begging and one person in Beijing who might have been homeless but I’m not even sure of that. I saw more down and outs in one hour in Boston than in one week in China. There is no open air drug use. I witnessed no obnoxious public drunkenness except for one case where a guy was urinating on a fence but maybe he just really had to go. Again a very sharp contrast with the US where there is a reserve army of addicts everywhere and even with many European cities where the train stations tend to have plenty of shady characters who will approach you. \n\n-Infrastructure is of the highest quality. Every big city has a subway station that follows a similar model and is easy to navigate. There are 4-5 police at every entrance. You’ll have your bag put through a scanner and be wanded down. The stations are all quite new and nearly spotless. There are no schizophrenics or addicts screaming or jacking off or pissing on you or demanding money. I spent plenty of time on the roads and didn’t see any potholes or cracks in the sidewalk.\n\n-Related to the above I was able to move between every city on high speed rail. A train from New York City to Toronto takes 12 hours. Beijing to Nanjing is a longer distance and only 4.5 hours. To the people who say “durrr just fly”, flying is a grotesquely unpleasant experience. It would be more practical and better for the environment if we could take the train to middle distance cities.\n\n-There are a few things here that feel mildly sci fi. A soccer game began with a robot penalty kick off. When you take a train you can order delivery ahead to the next stop. The train will only be in the station for a minute but your KFC will be brought to your seat. A hotel I stayed in had a food delivery robot which would bring your orders from the lobby to the elevator to your room. Maybe I would think this was dystopian if I saw it in the US but their technology is certainly as advanced or more advanced than anything we have.\n\n-I was told there was a cult of personality around Xi Jinping but I didn’t see it. No big banners with his face, in fact I only ever saw his image tucked away in museums or on trinkets sold by street vendors. China seems to be a largely apolitical country living under a one party state so that’s something it has in common with the US.\n\n-There is and will be a lot of denial about China doing anything better than America mixed with made up reasons why we can’t do some things the way they do. Nonsense. China is not a utopia and it’s not Mars. It has better infrastructure, cleaner more pleasant cities, and better public safety than the US. Of course we can do all that here. It is embarrassing to see people on the left defend open air drug use or women being harassed on the train as part of living in a city. It doesn’t have to be!\n\n-The Great Wall and the Summer Palace are more extraordinary than I could have imagined. Shanghai is one of the most beautiful cities I’ve ever seen.\n\nI hope to go back soon!"
+        },
+        "link": {
+          "url": "http://www.x.com/seanmccarthycom/status/1948159082294120759",
+          "label": "www.x.com"
+        },
+        "author": "Sean Padraig McCarthy",
+        "info": {
+          "images": null,
+          "videos": null,
+          "content": {
+            "isTruncated": true,
+            "truncatedHtml": "Stray thoughts after spending a week in China (Beijing, Nanjing, and Shanghai):\n\n-Every American should visit if they have the opportunity. You’ll be told so much about China in the coming years and while visiting once does not make you an expert you’ll at least be able to sort out some of the more blatant lies.\n\n-As someone who has visited many US... <span class='text-silver-font whitespace-nowrap hover:underline cursor-pointer'>See more</span>",
+            "originalHtml": "Stray thoughts after spending a week in China (Beijing, Nanjing, and Shanghai):\n\n-Every American should visit if they have the opportunity. You’ll be told so much about China in the coming years and while visiting once does not make you an expert you’ll at least be able to sort out some of the more blatant lies.\n\n-As someone who has visited many US and European cities the first thing that will strike you here is the cleanliness. Almost no litter. Very little dog poop in the streets, few cigarette butts even though there are a lot more smokers. I only found one piece of graffiti which was appropriately enough a spray painted penis on an out of the way wall. You will see uniformed workers in the street with brooms and dustpans keeping things tidy. What a novel concept!\n\n-Street crime is almost nonexistent. I never once felt unsafe. Nobody ever accosted me for money. In the entire time I saw one person in Shanghai quietly begging and one person in Beijing who might have been homeless but I’m not even sure of that. I saw more down and outs in one hour in Boston than in one week in China. There is no open air drug use. I witnessed no obnoxious public drunkenness except for one case where a guy was urinating on a fence but maybe he just really had to go. Again a very sharp contrast with the US where there is a reserve army of addicts everywhere and even with many European cities where the train stations tend to have plenty of shady characters who will approach you. \n\n-Infrastructure is of the highest quality. Every big city has a subway station that follows a similar model and is easy to navigate. There are 4-5 police at every entrance. You’ll have your bag put through a scanner and be wanded down. The stations are all quite new and nearly spotless. There are no schizophrenics or addicts screaming or jacking off or pissing on you or demanding money. I spent plenty of time on the roads and didn’t see any potholes or cracks in the sidewalk.\n\n-Related to the above I was able to move between every city on high speed rail. A train from New York City to Toronto takes 12 hours. Beijing to Nanjing is a longer distance and only 4.5 hours. To the people who say “durrr just fly”, flying is a grotesquely unpleasant experience. It would be more practical and better for the environment if we could take the train to middle distance cities.\n\n-There are a few things here that feel mildly sci fi. A soccer game began with a robot penalty kick off. When you take a train you can order delivery ahead to the next stop. The train will only be in the station for a minute but your KFC will be brought to your seat. A hotel I stayed in had a food delivery robot which would bring your orders from the lobby to the elevator to your room. Maybe I would think this was dystopian if I saw it in the US but their technology is certainly as advanced or more advanced than anything we have.\n\n-I was told there was a cult of personality around Xi Jinping but I didn’t see it. No big banners with his face, in fact I only ever saw his image tucked away in museums or on trinkets sold by street vendors. China seems to be a largely apolitical country living under a one party state so that’s something it has in common with the US.\n\n-There is and will be a lot of denial about China doing anything better than America mixed with made up reasons why we can’t do some things the way they do. Nonsense. China is not a utopia and it’s not Mars. It has better infrastructure, cleaner more pleasant cities, and better public safety than the US. Of course we can do all that here. It is embarrassing to see people on the left defend open air drug use or women being harassed on the train as part of living in a city. It doesn’t have to be!\n\n-The Great Wall and the Summer Palace are more extraordinary than I could have imagined. Shanghai is one of the most beautiful cities I’ve ever seen.\n\nI hope to go back soon!"
+          }
+        },
+        "feedIdentifier": "7b69c0df-bf4c-4901-86af-3e7bbbf49dbe-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "7b69c0df-bf4c-4901-86af-3e7bbbf49dbe",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      }
+    ]
+  },
+  {
+    "collectionSlug": "later-dump",
+    "sortBy": "-first_connection_at",
+    "shuffleSeed": null,
+    "type": "all",
+    "current": "2",
+    "next": "3",
+    "previous": null,
+    "feed": [
+      {
+        "uuid": "98b2e9be-590b-4806-b86c-5d599a3cf1f3",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/447c6c394c224f539577aa7ee8338066/thumbnail.jpg",
+        "name": "Some open questions on the financial history of technology",
+        "slug": "some-open-questions-on-the-financial-history-of-technology",
+        "author": null,
+        "link": {
+          "url": "http://blog.spec.tech/p/some-open-questions-on-the-financial",
+          "label": "blog.spec.tech"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "98b2e9be-590b-4806-b86c-5d599a3cf1f3-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "98b2e9be-590b-4806-b86c-5d599a3cf1f3",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "e3efa45f-5d56-4477-9f10-c1fc1b058b39",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/5b97f4e249d6471f891492921dac1ec7/thumbnail.jpg",
+        "name": "The Philosopher-Builder",
+        "slug": "the-philosopher-builder-e3efa45f5d564477",
+        "author": null,
+        "link": {
+          "url": "http://blog.cosmos-institute.org/p/the-philosopher-builder",
+          "label": "blog.cosmos-institute.org"
+        },
+        "numberOfPublicHighlights": 10,
+        "info": null,
+        "feedIdentifier": "e3efa45f-5d56-4477-9f10-c1fc1b058b39-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "e3efa45f-5d56-4477-9f10-c1fc1b058b39",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "ae61900f-e1c0-4a32-a2e3-c25617c054ce",
+        "entityType": "curation.tweet",
+        "images": [
+          "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/curation/tweet/1947233727844663503/image0.jpg",
+          "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/curation/tweet/1947233727844663503/image1.jpg"
+        ],
+        "slug": "www-x-com-atrightmovies-status-1947233727844663503",
+        "content": {
+          "isTruncated": false,
+          "truncatedHtml": "In the scene where Oppenheimer sees nightmarish visions of the bombs victims, we see one young woman with pieces of flesh peeling from her face. The woman was played by Nolan’s daughter, Flora.\n\n31/35 https://t.co/LFPr1mQYzQ",
+          "originalHtml": "In the scene where Oppenheimer sees nightmarish visions of the bombs victims, we see one young woman with pieces of flesh peeling from her face. The woman was played by Nolan’s daughter, Flora.\n\n31/35 https://t.co/LFPr1mQYzQ"
+        },
+        "link": {
+          "url": "http://www.x.com/atrightmovies/status/1947233727844663503",
+          "label": "www.x.com"
+        },
+        "author": "ATRightMovies",
+        "info": {
+          "images": [
+            "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/curation/tweet/1947233727844663503/image0.jpg",
+            "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/curation/tweet/1947233727844663503/image1.jpg"
+          ],
+          "videos": null,
+          "content": {
+            "isTruncated": false,
+            "truncatedHtml": "In the scene where Oppenheimer sees nightmarish visions of the bombs victims, we see one young woman with pieces of flesh peeling from her face. The woman was played by Nolan’s daughter, Flora.\n\n31/35 https://t.co/LFPr1mQYzQ",
+            "originalHtml": "In the scene where Oppenheimer sees nightmarish visions of the bombs victims, we see one young woman with pieces of flesh peeling from her face. The woman was played by Nolan’s daughter, Flora.\n\n31/35 https://t.co/LFPr1mQYzQ"
+          }
+        },
+        "feedIdentifier": "ae61900f-e1c0-4a32-a2e3-c25617c054ce-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "ae61900f-e1c0-4a32-a2e3-c25617c054ce",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "2ee48caf-29b6-4441-bc67-fa58ae65a2bb",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/ec08395897284894b6fcf131fbbcd780/thumbnail.png",
+        "name": "The Urgent Buyer Era | The New Industrial Corporation",
+        "slug": "the-urgent-buyer-era-the-new-industrial-corporation",
+        "author": null,
+        "link": {
+          "url": "http://www.newindustrial.com/blog/the-urgent-buyer-era",
+          "label": "www.newindustrial.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "2ee48caf-29b6-4441-bc67-fa58ae65a2bb-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "2ee48caf-29b6-4441-bc67-fa58ae65a2bb",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "369e7f94-8b12-40cd-a91f-f616461fdec8",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/d3daaf8bde674879bd466d0e12f0c3b4/thumbnail.jpg",
+        "name": "How Tariffs Are Breaking US Trade",
+        "slug": "how-tariffs-are-breaking-us-trade",
+        "author": null,
+        "link": {
+          "url": "http://www.apricitas.io/p/how-tariffs-are-breaking-us-trade",
+          "label": "www.apricitas.io"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "369e7f94-8b12-40cd-a91f-f616461fdec8-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "369e7f94-8b12-40cd-a91f-f616461fdec8",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "d24ce45f-8762-4e56-9dc2-dc20f5c8cac9",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/923203d6b0714bafae44d892d3e42ee3/thumbnail.jpg",
+        "name": "Great Fire of London",
+        "slug": "great-fire-of-london",
+        "author": null,
+        "link": {
+          "url": "http://en.wikipedia.org/wiki/Great_Fire_of_London",
+          "label": "en.wikipedia.org"
+        },
+        "numberOfPublicHighlights": 1,
+        "info": null,
+        "feedIdentifier": "d24ce45f-8762-4e56-9dc2-dc20f5c8cac9-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "d24ce45f-8762-4e56-9dc2-dc20f5c8cac9",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "519e7429-9ac3-4694-bd3a-785fd5ed6b83",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/4a2dbbbb5ce34dd59b3cf13ddff245c4/thumbnail.png",
+        "name": "Monetization & Monopolies: How the Internet You Loved Died",
+        "slug": "monetization-monopolies-how-the-internet-you-loved-died-conrad-bastable",
+        "author": "Conrad Bastable",
+        "link": {
+          "url": "http://www.conradbastable.com/essays/monetization-amp-monopolies-how-the-internet-you-loved-died",
+          "label": "www.conradbastable.com"
+        },
+        "numberOfPublicHighlights": 3,
+        "info": null,
+        "feedIdentifier": "519e7429-9ac3-4694-bd3a-785fd5ed6b83-2",
+        "numberOfConnections": 4,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "519e7429-9ac3-4694-bd3a-785fd5ed6b83",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "a1a90d8f-ec5f-471b-98ea-9cef8d75439f",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/7387aedbaa1c4d99915f21d36e4f0824/thumbnail.jpg",
+        "name": "The Merchant Banking Evolution In Venture Capital",
+        "slug": "the-merchant-banking-evolution-in-venture-capital",
+        "author": null,
+        "link": {
+          "url": "http://www.forbes.com/sites/josipamajic/2025/07/16/the-merchant-banking-evolution-in-venture-capital",
+          "label": "www.forbes.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "a1a90d8f-ec5f-471b-98ea-9cef8d75439f-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "a1a90d8f-ec5f-471b-98ea-9cef8d75439f",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "9618bb01-b52f-4088-987d-cc674d97e90e",
+        "entityType": "curation.article",
+        "name": "How to Solve Any Problem?",
+        "slug": "how-to-solve-any-problem",
+        "author": "Dr Piotr Wozniak",
+        "link": {
+          "url": "http://supermemo.guru/wiki/How_to_solve_any_problem%3F",
+          "label": "supermemo.guru"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "9618bb01-b52f-4088-987d-cc674d97e90e-2",
+        "numberOfConnections": 2,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "9618bb01-b52f-4088-987d-cc674d97e90e",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "8ee6e90d-2993-441c-b5cd-6a40db868e56",
+        "entityType": "curation.video",
+        "embedURL": {
+          "href": "https://www.youtube-nocookie.com/embed/AS3FPP3n2VU",
+          "iFrameHeight": null
+        },
+        "thumbnail": null,
+        "nativeVideo": null,
+        "name": "K. Eric Drexler on Productive Nanosystems",
+        "slug": "k-eric-drexler-on-productive-nanosystems",
+        "link": {
+          "url": "http://www.youtube.com/watch?v=AS3FPP3n2VU",
+          "label": "www.youtube.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "description": "At the Singularity Summit at Stanford.",
+        "author": null,
+        "info": null,
+        "feedIdentifier": "8ee6e90d-2993-441c-b5cd-6a40db868e56-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "8ee6e90d-2993-441c-b5cd-6a40db868e56",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      }
+    ]
+  },
+  {
+    "collectionSlug": "later-dump",
+    "sortBy": "-first_connection_at",
+    "shuffleSeed": null,
+    "type": "all",
+    "current": "3",
+    "next": "4",
+    "previous": "2",
+    "feed": [
+      {
+        "uuid": "4f854f58-f6a0-42d7-be7d-b1e121a60d07",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/637c4e0bde0e4fc189d5780c4bf828b3/thumbnail.png",
+        "name": "Welcome to the Wild World of Drug Reddit",
+        "slug": "welcome-to-the-wild-world-of-drug-reddit",
+        "author": "Dani Socher",
+        "link": {
+          "url": "http://www.piratewires.com/p/welcome-to-the-wild-world-of-drug-reddit",
+          "label": "www.piratewires.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "4f854f58-f6a0-42d7-be7d-b1e121a60d07-3",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "4f854f58-f6a0-42d7-be7d-b1e121a60d07",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      }
+    ]
   }
 ]
