@@ -48721,5 +48721,3354 @@
         }
       }
     ]
+  },
+  {
+    "collectionSlug": "later-dump",
+    "isPrivateLink": false,
+    "sortBy": "-first_connection_at",
+    "shuffleSeed": null,
+    "type": "all",
+    "current": "1",
+    "next": "2",
+    "previous": null,
+    "feed": [
+      {
+        "uuid": "190eabea-b72d-47e3-bcb2-bc0c70eb144a",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/22c50f69690c43aca52b426f0017c5ef/thumbnail.jpg",
+        "name": "Becoming a Magician",
+        "slug": "becoming-a-magician-190eabeab72d47e3",
+        "author": "Autotranslucence",
+        "link": {
+          "url": "http://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician",
+          "label": "autotranslucence.wordpress.com"
+        },
+        "numberOfPublicHighlights": 1,
+        "info": null,
+        "feedIdentifier": "190eabea-b72d-47e3-bcb2-bc0c70eb144a-1",
+        "numberOfConnections": 23,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": true,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "190eabea-b72d-47e3-bcb2-bc0c70eb144a",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "7df693b3-2cf9-4be7-91ce-acf0180840c6",
+        "entityType": "curation.file",
+        "name": "MIT Guide to Lock Picking",
+        "slug": "lock-picking",
+        "description": {
+          "isTruncated": false,
+          "truncated": "Explores lock picking techniques, mechanics, and exercises, emphasizing practical skills, understanding lock behavior, handling various lock types, and creating effective tools for picking locks efficiently.",
+          "original": "Explores lock picking techniques, mechanics, and exercises, emphasizing practical skills, understanding lock behavior, handling various lock types, and creating effective tools for picking locks efficiently."
+        },
+        "link": {
+          "url": "http://www.lysator.liu.se/mit-guide/MITLockGuide.pdf",
+          "label": "www.lysator.liu.se"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "7df693b3-2cf9-4be7-91ce-acf0180840c6-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "7df693b3-2cf9-4be7-91ce-acf0180840c6",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "ca1352d4-3805-447d-a9be-556cc2f73f4e",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/2023e81040a14eaaa72f2d1196d5f8a7/thumbnail.jpg",
+        "name": "The Thinking Class",
+        "slug": "the-thinking-class-ca1352d43805447d",
+        "author": null,
+        "link": {
+          "url": "http://hybridhorizons.substack.com/p/the-thinking-class?shareImageVariant=overlay&triedRedirect=true",
+          "label": "hybridhorizons.substack.com"
+        },
+        "numberOfPublicHighlights": 1,
+        "info": null,
+        "feedIdentifier": "ca1352d4-3805-447d-a9be-556cc2f73f4e-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "ca1352d4-3805-447d-a9be-556cc2f73f4e",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "fcbea8e7-e7f2-40cb-a788-db62a911b97b",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/d85512838ff849f4b5df067ceea36f6a/thumbnail.jpg",
+        "name": "Cheryl Douglass (@cherdougie)",
+        "slug": "cheryl-douglass-cherdougie",
+        "author": "Cheryl Douglass",
+        "link": {
+          "url": "http://substack.com/@cherdougie/note/c-195754520",
+          "label": "substack.com"
+        },
+        "numberOfPublicHighlights": 1,
+        "info": {
+          "images": [
+            "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/curation/insta/fcbea8e7-e7f2-40cb-a788-db62a911b97b/image0.jpeg"
+          ],
+          "videos": null,
+          "htmlContent": {
+            "isTruncated": true,
+            "truncated": "the secret of new york is that it only really works at the extremes \n\nnot that the rich or the poor have it easy, but the middle is where the city quietly grinds you down. the rich float above the city, insulated by square footage and silence, moving through private doors. the poor learn how to make the city bend. they... <span class='text-silver-font whitespace-nowrap hover:underline cursor-pointer'>See more</span>",
+            "original": "the secret of new york is that it only really works at the extremes \n\nnot that the rich or the poor have it easy, but the middle is where the city quietly grinds you down. the rich float above the city, insulated by square footage and silence, moving through private doors. the poor learn how to make the city bend. they split rooms and meals and jump the subway turnstiles. they understand that the city is survivable if you do not ask it to be comfortable. it is the middle that gets bruised. the ones who try to live reasonably here. the ones who want both dignity and ease. new york resents moderation. it taxes it.\n\n*one could say this about america at large but this is really magnified in nyc \n\nif you’re poor, the city teaches you improv. you learn which places let you linger, which bars pour heavy. you stop asking whether you want roommates and start asking how many. people overlap because space demands it. resources circulate because they have to. plans are loose. money moves through hands quickly.  you live in motion, and motion keeps you light\n\nif you’re very rich, the city becomes a service. someone else handles the friction. time stretches. the noise dulls. you pay to avoid eye contact.  the city feels smaller, more obedient. you experience new york as a series of well lit interiors. \n\nyoure doing drugs because youre working a series of part time jobs or because youre a wall street demon. the substances may share a name, but the intention does not. one is trying to stay awake long enough to matter. the other is trying to disappear. both are negotiating with exhaustion. new york is generous with illusion at both ends.\n\nthe best food is $5 or $500. a dumpling cart that understands you. a slice eaten at the end of a long night. or a room where the lighting has been rehearsed and a staff member picks up your napkin before you realized you dropped it. the middle meals are forgettable. the ones that cost $43 and still leave you hungry. the city does not reward moderation. either you eat to survive or you eat to signal that survival is no longer the concern.\n\nboth the rich and the poor understand the same truth from opposite directions. that new york is not a place to be balanced. it is a place to be extreme. you either learn how to make very little feel like enough, or you pay obscene amounts to make sure nothing ever feels like too much.\n\nbut if you are neither, the city demands constant proof that you deserve the space you take up. proof that you can keep up. you pay too much for rooms that do not quite hold you. you ration joy. you hesitate before saying yes. you feel the clock louder than the music. this is where people thin out. rent increases, nights  cost more than they ever really give back.\n\nthe city arranges comparison so precisely that comfort never quite settles. wealth raises the ceiling, but the ceiling never stops moving.\n\nnew york is not cruel. it is precise. it rewards surrender at the bottom and insulation at the top. everything else is endurance. and endurance, over time, asks for more than most people mean to give.\n\nspecial shout out to @David Phelps for inspiring this tangent "
+          },
+          "audios": null
+        },
+        "feedIdentifier": "fcbea8e7-e7f2-40cb-a788-db62a911b97b-1",
+        "numberOfConnections": 3,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "fcbea8e7-e7f2-40cb-a788-db62a911b97b",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "99db4f82-f339-4573-a235-4b20a8db0bf7",
+        "entityType": "curation.tweet",
+        "images": [],
+        "slug": "www-x-com-hamptonism-status-2013511432823021925",
+        "htmlContent": {
+          "isTruncated": false,
+          "truncated": "https://t.co/l6krRTzsUf",
+          "original": "https://t.co/l6krRTzsUf"
+        },
+        "textContent": "https://t.co/l6krRTzsUf",
+        "link": {
+          "url": "http://www.x.com/hamptonism/status/2013511432823021925",
+          "label": "www.x.com"
+        },
+        "author": "ₕₐₘₚₜₒₙ",
+        "info": {
+          "images": null,
+          "videos": null,
+          "htmlContent": {
+            "isTruncated": false,
+            "truncated": "https://t.co/l6krRTzsUf",
+            "original": "https://t.co/l6krRTzsUf"
+          },
+          "audios": null
+        },
+        "feedIdentifier": "99db4f82-f339-4573-a235-4b20a8db0bf7-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "99db4f82-f339-4573-a235-4b20a8db0bf7",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "80cb2b6a-aae6-4488-b532-6423ccad7364",
+        "entityType": "curation.video",
+        "embedURL": {
+          "href": "https://www.youtube-nocookie.com/embed/RXVe1elQiI8",
+          "iFrameHeight": null
+        },
+        "thumbnail": null,
+        "nativeVideo": null,
+        "name": "The Archaeology of Conflict in Roman Britain",
+        "slug": "youtube-80cb2b6aaae64488",
+        "link": {
+          "url": "http://www.youtube.com/watch?v=RXVe1elQiI8",
+          "label": "www.youtube.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "description": {
+          "isTruncated": false,
+          "truncated": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "original": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+        },
+        "author": null,
+        "info": null,
+        "feedIdentifier": "80cb2b6a-aae6-4488-b532-6423ccad7364-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "80cb2b6a-aae6-4488-b532-6423ccad7364",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "69b7a329-2884-4f52-92e5-fc976ccc6c20",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/1b634a8cb02046dca9d089bdffd8bbed/thumbnail.jpg",
+        "name": "Voyages to the End of the World - First Things",
+        "slug": "voyages-to-the-end-of-the-world-first-things",
+        "author": "Peter Thiel",
+        "link": {
+          "url": "http://firstthings.com/voyages-to-the-end-of-the-world",
+          "label": "firstthings.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "69b7a329-2884-4f52-92e5-fc976ccc6c20-1",
+        "numberOfConnections": 2,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "69b7a329-2884-4f52-92e5-fc976ccc6c20",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "96a3449c-ff65-4cc2-ad9e-9f4db3937905",
+        "entityType": "curation.video",
+        "embedURL": {
+          "href": "https://www.youtube-nocookie.com/embed/Z-FRe5AKmCU",
+          "iFrameHeight": null
+        },
+        "thumbnail": null,
+        "nativeVideo": null,
+        "name": "Paul Rosolie: Uncontacted Tribes in the Amazon Jungle | Lex Fridman Podcast #489",
+        "slug": "youtube-96a3449cff654cc2",
+        "link": {
+          "url": "http://www.youtube.com/watch?v=Z-FRe5AKmCU",
+          "label": "www.youtube.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "description": {
+          "isTruncated": false,
+          "truncated": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "original": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+        },
+        "author": null,
+        "info": null,
+        "feedIdentifier": "96a3449c-ff65-4cc2-ad9e-9f4db3937905-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "96a3449c-ff65-4cc2-ad9e-9f4db3937905",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "b0992920-5b63-4331-80d6-f2caddd35caf",
+        "entityType": "curation.link",
+        "name": "HTMAA 2025",
+        "slug": "htmaa-2025",
+        "link": {
+          "url": "http://fab.cba.mit.edu/classes/MAS.863",
+          "label": "fab.cba.mit.edu"
+        },
+        "numberOfPublicHighlights": 0,
+        "htmlContent": null,
+        "textContent": null,
+        "author": null,
+        "info": null,
+        "feedIdentifier": "b0992920-5b63-4331-80d6-f2caddd35caf-1",
+        "numberOfConnections": 0,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "b0992920-5b63-4331-80d6-f2caddd35caf",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "ac287309-399c-4c01-98db-8b15b6b5e26d",
+        "entityType": "curation.link",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/0b078708a58145c89ef828c3cec64286/thumbnail.png",
+        "name": "Nintil - 33 Things I've Learned at 33",
+        "slug": "nintil-33-things-i-ve-learned-at-33",
+        "link": {
+          "url": "http://nintil.com/33-things",
+          "label": "nintil.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "htmlContent": null,
+        "textContent": null,
+        "author": null,
+        "info": null,
+        "feedIdentifier": "ac287309-399c-4c01-98db-8b15b6b5e26d-1",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "ac287309-399c-4c01-98db-8b15b6b5e26d",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      }
+    ]
+  },
+  {
+    "collectionSlug": "later-dump",
+    "isPrivateLink": false,
+    "sortBy": "-first_connection_at",
+    "shuffleSeed": null,
+    "type": "all",
+    "current": "2",
+    "next": "3",
+    "previous": null,
+    "feed": [
+      {
+        "uuid": "a26ab68b-20bc-4753-b3b1-61ea7b407851",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/47f30c77df8541669d0f9356b1e36dbb/thumbnail.jpg",
+        "name": "Filaments of the Future",
+        "slug": "filaments-of-the-future",
+        "author": "Henry Lee",
+        "link": {
+          "url": "http://blog.cultivarium.org/p/fungi-and-archaea",
+          "label": "blog.cultivarium.org"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "a26ab68b-20bc-4753-b3b1-61ea7b407851-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "a26ab68b-20bc-4753-b3b1-61ea7b407851",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "9b078231-dac8-4c5f-afb2-694cf6f911a8",
+        "entityType": "curation.link",
+        "name": "Can We Avoid a Hard Takeoff: Speculations on Issues in AI and IA",
+        "slug": "can-we-avoid-a-hard-takeoff-speculations-on-issues-in-ai-and-ia",
+        "link": {
+          "url": "http://edoras.sdsu.edu/~vinge/misc/ac2005",
+          "label": "edoras.sdsu.edu"
+        },
+        "numberOfPublicHighlights": 0,
+        "htmlContent": null,
+        "textContent": null,
+        "author": null,
+        "info": null,
+        "feedIdentifier": "9b078231-dac8-4c5f-afb2-694cf6f911a8-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "9b078231-dac8-4c5f-afb2-694cf6f911a8",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "ba9bd3fe-0e11-4eab-b323-a4d9d3365fc0",
+        "entityType": "curation.article",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/M%25C3%25A4rklin_Museum_in_G%25C3%25B6ppingen_-_panoramio.jpg/330px-M%25C3%25A4rklin_Museum_in_G%25C3%25B6ppingen_-_panoramio.jpg",
+        "name": "Märklin",
+        "slug": "marklin",
+        "author": null,
+        "link": {
+          "url": "http://en.wikipedia.org/wiki/M%C3%A4rklin",
+          "label": "en.wikipedia.org"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "ba9bd3fe-0e11-4eab-b323-a4d9d3365fc0-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "ba9bd3fe-0e11-4eab-b323-a4d9d3365fc0",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "152f1b76-c413-4158-81c0-d6cb8f0ed9e9",
+        "entityType": "curation.video",
+        "embedURL": {
+          "href": "https://www.youtube-nocookie.com/embed/3TwSpCzrQ24",
+          "iFrameHeight": null
+        },
+        "thumbnail": null,
+        "nativeVideo": null,
+        "name": "Elden Ring Solved a Problem Nietzsche Identified 150 Years Ago",
+        "slug": "elden-ring-solved-a-problem-nietzsche-identified-150-years-ago",
+        "link": {
+          "url": "http://www.youtube.com/watch?v=3TwSpCzrQ24",
+          "label": "www.youtube.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "description": {
+          "isTruncated": false,
+          "truncated": "Nietzsche wrote about the \"Last Man.\"6The Last Man is the ultimate end-product of civilization. He has eliminated danger. He has eliminated struggle. He say...",
+          "original": "Nietzsche wrote about the \"Last Man.\"6The Last Man is the ultimate end-product of civilization. He has eliminated danger. He has eliminated struggle. He say..."
+        },
+        "author": null,
+        "info": null,
+        "feedIdentifier": "152f1b76-c413-4158-81c0-d6cb8f0ed9e9-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "152f1b76-c413-4158-81c0-d6cb8f0ed9e9",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "c77e1b87-7faa-4318-bf8d-c3157762f03f",
+        "entityType": "contribution.highlighted_image",
+        "slug": "www-x-com-onlythroughgod-status-2012527236012810455-image",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/0ab701d5fddc47e28d0fe52c6cfe43c2/thumbnail.jpg",
+        "thumbnailDimensions": {
+          "width": 1200,
+          "height": 1197
+        },
+        "source": {
+          "name": "Tweet",
+          "author": "Modern Mythos",
+          "slug": "www-x-com-onlythroughgod-status-2012527236012810455"
+        },
+        "info": null,
+        "feedIdentifier": "c77e1b87-7faa-4318-bf8d-c3157762f03f-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "c77e1b87-7faa-4318-bf8d-c3157762f03f",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "863f30bc-d81b-4d5c-b69a-cd13d4b51aba",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/c5a4098b1f304561b7f1aa342982984f/thumbnail.png",
+        "name": "GitHub - pg1/paper-profit: PaperProfit is a comprehensive paper-trading platform that lets you learn by doing—teaching you about investing, trading, risk management, markets, portfolio management, and a wide range of investment...",
+        "slug": "github-pg1-paper-profit-paperprofit-is-a-comprehensive-paper-trading-platform-that-lets-you-learn-by",
+        "author": null,
+        "link": {
+          "url": "http://github.com/pg1/paper-profit",
+          "label": "github.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "863f30bc-d81b-4d5c-b69a-cd13d4b51aba-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "863f30bc-d81b-4d5c-b69a-cd13d4b51aba",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "c23f8c0b-9a2f-4053-a601-d8726e4d1ec7",
+        "entityType": "curation.tweet",
+        "images": [],
+        "slug": "www-x-com-kevinsxu-status-2012208292727054751",
+        "htmlContent": {
+          "isTruncated": false,
+          "truncated": "https://t.co/x4xhgPMVvz",
+          "original": "https://t.co/x4xhgPMVvz"
+        },
+        "textContent": "https://t.co/x4xhgPMVvz",
+        "link": {
+          "url": "http://www.x.com/kevinsxu/status/2012208292727054751",
+          "label": "www.x.com"
+        },
+        "author": "Kevin S. Xu",
+        "info": {
+          "images": null,
+          "videos": null,
+          "htmlContent": {
+            "isTruncated": false,
+            "truncated": "https://t.co/x4xhgPMVvz",
+            "original": "https://t.co/x4xhgPMVvz"
+          },
+          "audios": null
+        },
+        "feedIdentifier": "c23f8c0b-9a2f-4053-a601-d8726e4d1ec7-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "c23f8c0b-9a2f-4053-a601-d8726e4d1ec7",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "a1f567fb-786c-44bf-9115-f3acf87670d2",
+        "entityType": "curation.link",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/3ba6596bcb2a4f06898f57f4ce235021/thumbnail.png",
+        "name": "I Used AI to Email 3,800 Ivy League Bureaucrats, Now My School Is Investigating Me",
+        "slug": "i-used-ai-to-email-3800-ivy-league-bureaucrats-now-my-school-is-investigating-me",
+        "link": {
+          "url": "http://www.piratewires.com/p/doge-brown-university-student-email-admininstrative-staff",
+          "label": "www.piratewires.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "htmlContent": null,
+        "textContent": null,
+        "author": null,
+        "info": null,
+        "feedIdentifier": "a1f567fb-786c-44bf-9115-f3acf87670d2-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "a1f567fb-786c-44bf-9115-f3acf87670d2",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "d426458a-4fea-4b70-b8ff-37868efa876a",
+        "entityType": "curation.link",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/418d27ee2aae4eaf89171d3e6be15615/thumbnail.jpg",
+        "name": "The Logic of Risk",
+        "slug": "the-logic-of-risk",
+        "link": {
+          "url": "http://www.youtube.com/@TheLogicofRisk/courses",
+          "label": "www.youtube.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "htmlContent": null,
+        "textContent": null,
+        "author": null,
+        "info": null,
+        "feedIdentifier": "d426458a-4fea-4b70-b8ff-37868efa876a-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "d426458a-4fea-4b70-b8ff-37868efa876a",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "28ae910e-edca-4d5c-a63f-2857ba02973e",
+        "entityType": "curation.link",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/e19471214e0b4648a08a4fb833fc5b1c/thumbnail.webp",
+        "name": "The Library of Consciousness",
+        "slug": "the-library-of-consciousness",
+        "link": {
+          "url": "http://organism.earth/library",
+          "label": "organism.earth"
+        },
+        "numberOfPublicHighlights": 0,
+        "htmlContent": null,
+        "textContent": null,
+        "author": null,
+        "info": null,
+        "feedIdentifier": "28ae910e-edca-4d5c-a63f-2857ba02973e-2",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "28ae910e-edca-4d5c-a63f-2857ba02973e",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      }
+    ]
+  },
+  {
+    "collectionSlug": "later-dump",
+    "isPrivateLink": false,
+    "sortBy": "-first_connection_at",
+    "shuffleSeed": null,
+    "type": "all",
+    "current": "3",
+    "next": "4",
+    "previous": "2",
+    "feed": [
+      {
+        "uuid": "a5fc788b-aade-4038-8159-39d2f8f4af8b",
+        "entityType": "curation.file",
+        "name": "Shifting the impossible to the inevitable: A Private ARPA User Manual",
+        "slug": "user-manual",
+        "description": {
+          "isTruncated": false,
+          "truncated": "",
+          "original": ""
+        },
+        "link": {
+          "url": "http://blog.benjaminreinhardt.com/parpa.pdf",
+          "label": "blog.benjaminreinhardt.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "a5fc788b-aade-4038-8159-39d2f8f4af8b-3",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "a5fc788b-aade-4038-8159-39d2f8f4af8b",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "111b1382-7ab0-420b-9d99-9d83d2fafd3b",
+        "entityType": "curation.file",
+        "name": "untitled",
+        "slug": "untitled-111b13827ab0420b",
+        "description": {
+          "isTruncated": false,
+          "truncated": "",
+          "original": ""
+        },
+        "link": {
+          "url": "http://cluster.cis.drexel.edu/~cchen/citespace/doc/guide.pdf",
+          "label": "cluster.cis.drexel.edu"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "111b1382-7ab0-420b-9d99-9d83d2fafd3b-3",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "111b1382-7ab0-420b-9d99-9d83d2fafd3b",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "a69f8c22-ac0d-42e5-9023-89daf6d58e23",
+        "entityType": "curation.file",
+        "name": "1509.02868v1CoffeeHouse.pdf",
+        "slug": "02868v1coffeehouse-pdf",
+        "description": {
+          "isTruncated": false,
+          "truncated": "",
+          "original": ""
+        },
+        "link": {
+          "url": "http://static1.squarespace.com/static/5759bc7886db431d658b7d33/t/5783b5ea197aeaa57b5f7043/1468249585886/1509.02868v1CoffeeHouse.pdf",
+          "label": "static1.squarespace.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "a69f8c22-ac0d-42e5-9023-89daf6d58e23-3",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "a69f8c22-ac0d-42e5-9023-89daf6d58e23",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "d46f8860-d492-4f2a-8586-6218c6c6e745",
+        "entityType": "curation.file",
+        "thumbnail": "https://lh3.googleusercontent.com/docs/ADP-6oHreQDXA3BLL0yzQOJ7udaFrVKo8SWQHDMTggHhH2nsd9UtNXW14gBuAXe6u9uRNpPbUXsS_A0FgAPuG3CfRMta50ks1UQFToTLxbpNzZ8=w1200-h630-p",
+        "name": "World's Hardest Problems",
+        "slug": "worlds-hardest-problems",
+        "description": {
+          "isTruncated": false,
+          "truncated": "Sustainability + Human Development  Is the food we eat scalable, sustainable, healthy, nutritious and tasty?  Is the air we breathe clean? Is the water we drink pure? Is there a way to produce energy that is relatively abundant, cheap and clean? Is there a way to reverse or mitigate climate chan...",
+          "original": "Sustainability + Human Development  Is the food we eat scalable, sustainable, healthy, nutritious and tasty?  Is the air we breathe clean? Is the water we drink pure? Is there a way to produce energy that is relatively abundant, cheap and clean? Is there a way to reverse or mitigate climate chan..."
+        },
+        "link": {
+          "url": "http://docs.google.com/document/d/1Vb8WWbsVyEJzl66_qqtZfFr2uLL07Y7SJH5XKldjDPY/edit",
+          "label": "docs.google.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "d46f8860-d492-4f2a-8586-6218c6c6e745-3",
+        "numberOfConnections": 11,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": true,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "d46f8860-d492-4f2a-8586-6218c6c6e745",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "db732457-e2dc-4e84-9acf-444698be2fab",
+        "entityType": "curation.link",
+        "name": "The present will not be recognizable",
+        "slug": "the-present-will-not-be-recognizable",
+        "link": {
+          "url": "http://aphyr.com/posts/259-the-present-will-not-be-recognizable",
+          "label": "aphyr.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "htmlContent": null,
+        "textContent": null,
+        "author": null,
+        "info": null,
+        "feedIdentifier": "db732457-e2dc-4e84-9acf-444698be2fab-3",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "db732457-e2dc-4e84-9acf-444698be2fab",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "f9f1f742-c8bd-4240-ab88-52ae8cd3d2ad",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/2090d36ed0934475894f3f4f31b55a9f/thumbnail.jpg",
+        "name": "Nassim Nicholas Taleb: The future will not be cool - Salon.com",
+        "slug": "nassim-nicholas-taleb-the-future-will-not-be-cool-salon-com",
+        "author": null,
+        "link": {
+          "url": "http://www.salon.com/2012/12/01/nassim_nicholas_taleb_the_future_will_not_be_cool",
+          "label": "www.salon.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "f9f1f742-c8bd-4240-ab88-52ae8cd3d2ad-3",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "f9f1f742-c8bd-4240-ab88-52ae8cd3d2ad",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "05036a2d-bcbb-4e16-a599-4bb09a6b0f4a",
+        "entityType": "curation.link",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/b21a12662e064a4995dd15d0a6e2a245/thumbnail.png",
+        "name": "High Quality Collections of Digitized Art and Archival Finds",
+        "slug": "high-quality-collections-of-digitized-art-and-archival-finds",
+        "link": {
+          "url": "http://simonsarris.com/art-collections",
+          "label": "simonsarris.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "htmlContent": null,
+        "textContent": null,
+        "author": null,
+        "info": null,
+        "feedIdentifier": "05036a2d-bcbb-4e16-a599-4bb09a6b0f4a-3",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "05036a2d-bcbb-4e16-a599-4bb09a6b0f4a",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "7239ad41-a1e4-4d0f-a234-29d3c4048086",
+        "entityType": "curation.tweet",
+        "images": [],
+        "slug": "www-x-com-dhaber-status-2010755274433257843-7239ad41a1e44d0f",
+        "htmlContent": {
+          "isTruncated": false,
+          "truncated": "https://t.co/OR5PvScWXT",
+          "original": "https://t.co/OR5PvScWXT"
+        },
+        "textContent": "https://t.co/OR5PvScWXT",
+        "link": {
+          "url": "http://www.x.com/dhaber/status/2010755274433257843",
+          "label": "www.x.com"
+        },
+        "author": "David Haber",
+        "info": {
+          "images": null,
+          "videos": null,
+          "htmlContent": {
+            "isTruncated": false,
+            "truncated": "https://t.co/OR5PvScWXT",
+            "original": "https://t.co/OR5PvScWXT"
+          },
+          "audios": null
+        },
+        "feedIdentifier": "7239ad41-a1e4-4d0f-a234-29d3c4048086-3",
+        "numberOfConnections": 2,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "7239ad41-a1e4-4d0f-a234-29d3c4048086",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "e527fcf0-235a-4eac-b0dd-d2f972555273",
+        "entityType": "curation.tweet",
+        "images": [],
+        "slug": "www-x-com-howdymerry-status-2010407057313202406",
+        "htmlContent": {
+          "isTruncated": false,
+          "truncated": "https://t.co/E7uGKClbOl",
+          "original": "https://t.co/E7uGKClbOl"
+        },
+        "textContent": "https://t.co/E7uGKClbOl",
+        "link": {
+          "url": "http://www.x.com/howdymerry/status/2010407057313202406",
+          "label": "www.x.com"
+        },
+        "author": "mary",
+        "info": {
+          "images": null,
+          "videos": null,
+          "htmlContent": {
+            "isTruncated": false,
+            "truncated": "https://t.co/E7uGKClbOl",
+            "original": "https://t.co/E7uGKClbOl"
+          },
+          "audios": null
+        },
+        "feedIdentifier": "e527fcf0-235a-4eac-b0dd-d2f972555273-3",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "e527fcf0-235a-4eac-b0dd-d2f972555273",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "189e0bc7-d29f-4484-a93c-aa45743ca2e1",
+        "entityType": "curation.tweet",
+        "images": [
+          "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/curation/insta/189e0bc7-d29f-4484-a93c-aa45743ca2e1/image0.jpg"
+        ],
+        "slug": "www-x-com-vintagemapstore-status-2010442105156489499",
+        "htmlContent": {
+          "isTruncated": false,
+          "truncated": "\"The next European war will start in Ukraine.\" illustration from the American magazine \"Look\" (March 14, 1939). https://t.co/5lutLqI74h",
+          "original": "\"The next European war will start in Ukraine.\" illustration from the American magazine \"Look\" (March 14, 1939). https://t.co/5lutLqI74h"
+        },
+        "textContent": "\"The next European war will start in Ukraine.\" illustration from the American magazine \"Look\" (March 14, 1939). https://t.co/5lutLqI74h",
+        "link": {
+          "url": "http://www.x.com/vintagemapstore/status/2010442105156489499",
+          "label": "www.x.com"
+        },
+        "author": "Vintage Maps",
+        "info": {
+          "images": [
+            "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/curation/insta/189e0bc7-d29f-4484-a93c-aa45743ca2e1/image0.jpg"
+          ],
+          "videos": null,
+          "htmlContent": {
+            "isTruncated": false,
+            "truncated": "\"The next European war will start in Ukraine.\" illustration from the American magazine \"Look\" (March 14, 1939). https://t.co/5lutLqI74h",
+            "original": "\"The next European war will start in Ukraine.\" illustration from the American magazine \"Look\" (March 14, 1939). https://t.co/5lutLqI74h"
+          },
+          "audios": null
+        },
+        "feedIdentifier": "189e0bc7-d29f-4484-a93c-aa45743ca2e1-3",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "189e0bc7-d29f-4484-a93c-aa45743ca2e1",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      }
+    ]
+  },
+  {
+    "collectionSlug": "later-dump",
+    "isPrivateLink": false,
+    "sortBy": "-first_connection_at",
+    "shuffleSeed": null,
+    "type": "all",
+    "current": "4",
+    "next": "5",
+    "previous": "3",
+    "feed": [
+      {
+        "uuid": "e7317d3c-e80d-45c1-b5fa-6fde13deb037",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/82b5961fcd9f4f219c45f5f7dc0ad50b/thumbnail.jpg",
+        "name": "Mandarin trip-hop: a field guide",
+        "slug": "mandarin-trip-hop-a-field-guide",
+        "author": "Ella Dorn",
+        "link": {
+          "url": "http://fairyland.substack.com/p/mandarin-trip-hop-a-field-guide",
+          "label": "fairyland.substack.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "e7317d3c-e80d-45c1-b5fa-6fde13deb037-4",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "e7317d3c-e80d-45c1-b5fa-6fde13deb037",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "62dacbb5-e815-47b8-957e-6fec53b730b5",
+        "entityType": "curation.article",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/12/1632-Eric_Flint_%25282000%2529_cover.jpg",
+        "name": "1632 series",
+        "slug": "1632-series",
+        "author": null,
+        "link": {
+          "url": "http://en.wikipedia.org/wiki/1632_series",
+          "label": "en.wikipedia.org"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "62dacbb5-e815-47b8-957e-6fec53b730b5-4",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "62dacbb5-e815-47b8-957e-6fec53b730b5",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "fdc3cdd4-f0fd-4255-90eb-464c63c64ab2",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/98536f294c5f49d38cca212d086b15f3/thumbnail.png",
+        "name": "How did Gen Z become the most religious generation alive?",
+        "slug": "how-did-gen-z-become-the-most-religious-generation-alive",
+        "author": null,
+        "link": {
+          "url": "http://news.sky.com/story/how-did-gen-z-become-the-most-religious-generation-alive-13492027",
+          "label": "news.sky.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "fdc3cdd4-f0fd-4255-90eb-464c63c64ab2-4",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "fdc3cdd4-f0fd-4255-90eb-464c63c64ab2",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "aeee4904-f5ce-43f9-8d38-3df0a5b91756",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/cff2ef992c5a465d9411f529fdfa8757/thumbnail.png",
+        "name": "GitHub - shadps4-emu/shadPS4: PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+        "slug": "github-shadps4-emu-shadps4-playstation-4-emulator-for-windows-linux-and-macos-written-in-c",
+        "author": null,
+        "link": {
+          "url": "http://github.com/shadps4-emu/shadPS4",
+          "label": "github.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "aeee4904-f5ce-43f9-8d38-3df0a5b91756-4",
+        "numberOfConnections": 2,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "aeee4904-f5ce-43f9-8d38-3df0a5b91756",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "afedfa11-c398-4f33-95cd-ffcf323714e9",
+        "entityType": "curation.file",
+        "name": "ssrn_id4624693_code2028438.pdf",
+        "slug": "code2028438-pdf",
+        "description": {
+          "isTruncated": false,
+          "truncated": "",
+          "original": ""
+        },
+        "link": {
+          "url": "http://download.ssrn.com/23/11/06/ssrn_id4624693_code2028438.pdf?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDDT4q%2BOE%2Bptb4zaKcmhw814I3OitE3jEN6IE0RK0HqrgIgT7TFSQZhzcTNG24D2tVe8NLtHVMisyWzEaSNXsf%2Fa%2BQqxwUItv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAEGgwzMDg0NzUzMDEyNTciDDSb%2FsrTscYbkR1qviqbBZkAjkvM0HcEiO%2Bmz3BO44wVT9gZ1n7e3RKDYjI7ZAdc4ZYT2aEzu5sQrUIOszetKxJfzp5w418L9bsLlIqhZ%2Ffcu%2Bxh0hLCHOtW7KigNCcxfUVipBhDvfbqs0a%2B2P4ME2WJyPMkfh78rRc3l%2ByzYRoaIWcjSSFZgLDV4E8JWKJdJYt2CLGvmzvafvMkknJ%2FGrE%2FiH8rBMtdknng2LhywXz3MrLaTEvCaik9OZfDQg%2BF7KN1gdYfbH5TW%2BiEbMKp6%2FRADd%2F%2F2cBBIXyVpyBsQGtwNuRdnWJcq1G%2FBlfQ3zxHxU4IOoGDnUK9YfiHvBS68JPGWZN1eC5FpytKbgsa0zvxDmMv%2Fl7xiBtpCvndnW%2FPG8qCe9x428rZwURm8XIJpPxVGs5GCp8w%2F9qSnHV%2F%2F9Ay3JD8GhFP8jNbBY6LYUo%2FsWNYdCVWTgxfwxovXfxhGdYyS5KvY%2F3jac5RBt8LnRuyatTkMsJoSSA6YelcLeTMB8FH1188zI9pM4lmnFePcPCiZw0OABzOPYF6P59K%2BbHqDq%2FB2VFBm%2BCj5wCPmDv%2Fvaf5WaH5x%2FM1lZlOKocqajs67aYVRMxj2bHEjAIwUp4oJVnCmLt19qwaDh4VShKDhvZV8Ut0iPS2HG6ro0CUC13z5bNv3vXSKv%2B14%2FormYOqIWNzii0kCjlYemyjuGt1U3DzaQhC%2BBmPoqXfYS2ANcIyrvcyo9lok%2F3WOztKL4gPDYqV0Lmq4eUtvMqS41ehvpFqpP7dC1qffCF%2BzNys%2FFE6j5XjbtO7idG2839Y6e2CltelFHEvyflNoIYokwyQWiE1QSq2We9jIix9MAfn4oWPOUBbxs7aUtzi0b3xioaagPXtnj4UNTg%2BaPVinH3bCBLMmKreVVl9HXMwhMOHywY6sQEHyPUQWy8n0ytNo%2BycIomGm%2BJjLttXrBdOrn4%2FK27ervVkQwBpL8ZBY5dKebKfkg0A%2Bl0OF6JmRFu%2FtGRuMUTDY4CK%2FZ9rdaxSdGbDOibV5c5FXQMMfg%2FYrudKesGa7%2BNIjAguQqGS5ZOp9mfnCHqaqJu1zvVlc0UYn%2FsFkVWBKgKh5jGFSGeNldvq6XHCv44bo28HbuuVrcyBprbrf%2FBzVwJyvXhljNdmXchQtvZjuu0%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260110T062010Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAUPUUPRWEXJSYRYX2%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8d08ce698b48741ab4d5f063ddd1628252f70435387dcab6e991e02c2c308e21&abstractId=4624693",
+          "label": "download.ssrn.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "afedfa11-c398-4f33-95cd-ffcf323714e9-4",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "afedfa11-c398-4f33-95cd-ffcf323714e9",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "080ce557-5208-48fe-b0df-ec3c013ea006",
+        "entityType": "curation.link",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/fbc16147b67e43d182d8090fc05f0c55/thumbnail.jpg",
+        "name": "fastcompany.com",
+        "slug": "fastcompany-com-080ce557520848fe",
+        "link": {
+          "url": "http://www.fastcompany.com/90176202/how-apples-advanced-technology-group-changed-our-world",
+          "label": "www.fastcompany.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "htmlContent": null,
+        "textContent": null,
+        "author": null,
+        "info": null,
+        "feedIdentifier": "080ce557-5208-48fe-b0df-ec3c013ea006-4",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "080ce557-5208-48fe-b0df-ec3c013ea006",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "2fe8cd2f-5c9e-4ab6-a379-8cdb9b860eb2",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/863e9b5703054243b3ded1818871093f/thumbnail.jpg",
+        "name": "Apple Advanced Technology Group - Wikipedia",
+        "slug": "apple-advanced-technology-group-wikipedia",
+        "author": null,
+        "link": {
+          "url": "http://en.wikipedia.org/wiki/Apple_Advanced_Technology_Group",
+          "label": "en.wikipedia.org"
+        },
+        "numberOfPublicHighlights": 0,
+        "info": null,
+        "feedIdentifier": "2fe8cd2f-5c9e-4ab6-a379-8cdb9b860eb2-4",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "2fe8cd2f-5c9e-4ab6-a379-8cdb9b860eb2",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "452904ce-b094-4a08-9588-c6fd8ab0644d",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/bca0ada1b0964b7eabd0b0db8cfcb1aa/thumbnail.jpg",
+        "name": "the hunger to be everything.",
+        "slug": "the-hunger-to-be-everything-452904ceb0944a08",
+        "author": "amber.",
+        "link": {
+          "url": "http://odetoapoet.substack.com/p/the-hunger-to-be-everything",
+          "label": "odetoapoet.substack.com"
+        },
+        "numberOfPublicHighlights": 14,
+        "info": null,
+        "feedIdentifier": "452904ce-b094-4a08-9588-c6fd8ab0644d-4",
+        "numberOfConnections": 37,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": true,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "452904ce-b094-4a08-9588-c6fd8ab0644d",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "4f3d484b-39e6-4ccf-9279-0b731ffd1b13",
+        "entityType": "curation.article",
+        "thumbnail": "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/images/thumbnails/curation/fef537d204844277a3fe4a61bf77c10a/thumbnail.jpg",
+        "name": "In Defense of Thinking Small",
+        "slug": "in-defense-of-thinking-small",
+        "author": null,
+        "link": {
+          "url": "http://www.bylinebyline.com/articles/thinking-small-cassandra-pintro",
+          "label": "www.bylinebyline.com"
+        },
+        "numberOfPublicHighlights": 21,
+        "info": null,
+        "feedIdentifier": "4f3d484b-39e6-4ccf-9279-0b731ffd1b13-4",
+        "numberOfConnections": 18,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": true,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "4f3d484b-39e6-4ccf-9279-0b731ffd1b13",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      },
+      {
+        "uuid": "1412e6a9-df49-4efc-8282-80d23eb3459a",
+        "entityType": "curation.video",
+        "embedURL": {
+          "href": "https://www.youtube-nocookie.com/embed/i3hMgtu2Pbk",
+          "iFrameHeight": null
+        },
+        "thumbnail": null,
+        "nativeVideo": null,
+        "name": "Vaas' Insanity Speech [4K] | Far Cry 3 #Shorts",
+        "slug": "vaas-insanity-speech-4k-far-cry-3-shorts",
+        "link": {
+          "url": "http://www.youtube.com/shorts/i3hMgtu2Pbk",
+          "label": "www.youtube.com"
+        },
+        "numberOfPublicHighlights": 0,
+        "description": {
+          "isTruncated": false,
+          "truncated": "Vaas' Insanity Speech [4K] | Far Cry 3 #Shorts Scenepack: godofgods___ (IG)Gameplay: StealthGamerBR (YouTube)",
+          "original": "Vaas' Insanity Speech [4K] | Far Cry 3 #Shorts Scenepack: godofgods___ (IG)Gameplay: StealthGamerBR (YouTube)"
+        },
+        "author": null,
+        "info": null,
+        "feedIdentifier": "1412e6a9-df49-4efc-8282-80d23eb3459a-4",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "1412e6a9-df49-4efc-8282-80d23eb3459a",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      }
+    ]
+  },
+  {
+    "collectionSlug": "later-dump",
+    "isPrivateLink": false,
+    "sortBy": "-first_connection_at",
+    "shuffleSeed": null,
+    "type": "all",
+    "current": "5",
+    "next": "6",
+    "previous": "4",
+    "feed": [
+      {
+        "uuid": "ba39e9c6-f6ed-4999-bed4-1dc5d2ac2b35",
+        "entityType": "curation.tweet",
+        "images": [
+          "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/curation/insta/ba39e9c6-f6ed-4999-bed4-1dc5d2ac2b35/image0.jpg"
+        ],
+        "slug": "www-x-com-oprydai-status-2008935860310606140",
+        "htmlContent": {
+          "isTruncated": true,
+          "truncated": "there’s a strange pattern I keep seeing in high-leverage people:\n\nthey all have a secret project they’ve been quietly building for years.\nnot for money. not for clout. not for pitches.\n\nsomething irrational. obsessive. technically impossible on paper.\na folder full... <span class='text-silver-font whitespace-nowrap hover:underline cursor-pointer'>See more</span>",
+          "original": "there’s a strange pattern I keep seeing in high-leverage people:\n\nthey all have a secret project they’ve been quietly building for years.\nnot for money. not for clout. not for pitches.\n\nsomething irrational. obsessive. technically impossible on paper.\na folder full of weird experiments.\na notebook of diagrams that don’t look like anything mainstream.\na prototype nobody has seen.\na system that shouldn’t work but somehow does.\n\nevery breakthrough you admire started as one of these “private delusions.”\nthe kind people would mock if they ever saw them too early.\nthe kind you only build when nobody is watching.\n\npublic output is just the final 5%.\nthe real story is the years spent tinkering with something that made no sense to anyone else.\nif you don’t have a secret project, start one."
+        },
+        "textContent": "there’s a strange pattern I keep seeing in high-leverage people:\n\nthey all have a secret project they’ve been quietly building for years.\nnot for money. not for clout. not for pitches.\n\nsomething irrational. obsessive. technically impossible on paper.\na folder full of weird experiments.\na notebook of diagrams that don’t look like anything mainstream.\na prototype nobody has seen.\na system that shouldn’t work but somehow does.\n\nevery breakthrough you admire started as one of these “private delusions.”\nthe kind people would mock if they ever saw them too early.\nthe kind you only build when nobody is watching.\n\npublic output is just the final 5%.\nthe real story is the years spent tinkering with something that made no sense to anyone else.\nif you don’t have a secret project, start one.",
+        "link": {
+          "url": "http://www.x.com/oprydai/status/2008935860310606140",
+          "label": "www.x.com"
+        },
+        "author": "Mustafa",
+        "info": {
+          "images": [
+            "https://sublimeinternet-public-storage-production.s3.amazonaws.com/media/curation/insta/ba39e9c6-f6ed-4999-bed4-1dc5d2ac2b35/image0.jpg"
+          ],
+          "videos": null,
+          "htmlContent": {
+            "isTruncated": true,
+            "truncated": "there’s a strange pattern I keep seeing in high-leverage people:\n\nthey all have a secret project they’ve been quietly building for years.\nnot for money. not for clout. not for pitches.\n\nsomething irrational. obsessive. technically impossible on paper.\na folder full... <span class='text-silver-font whitespace-nowrap hover:underline cursor-pointer'>See more</span>",
+            "original": "there’s a strange pattern I keep seeing in high-leverage people:\n\nthey all have a secret project they’ve been quietly building for years.\nnot for money. not for clout. not for pitches.\n\nsomething irrational. obsessive. technically impossible on paper.\na folder full of weird experiments.\na notebook of diagrams that don’t look like anything mainstream.\na prototype nobody has seen.\na system that shouldn’t work but somehow does.\n\nevery breakthrough you admire started as one of these “private delusions.”\nthe kind people would mock if they ever saw them too early.\nthe kind you only build when nobody is watching.\n\npublic output is just the final 5%.\nthe real story is the years spent tinkering with something that made no sense to anyone else.\nif you don’t have a secret project, start one."
+          },
+          "audios": null
+        },
+        "feedIdentifier": "ba39e9c6-f6ed-4999-bed4-1dc5d2ac2b35-5",
+        "numberOfConnections": 1,
+        "isPublic": true,
+        "isRelated": false,
+        "privateLink": null,
+        "viewer": {
+          "staffPick": false,
+          "favorite": false,
+          "pinned": false,
+          "isInYourLibrary": true,
+          "isLoading": false,
+          "isLoadingRelated": false
+        },
+        "notesContextSentences": null,
+        "collectionsContextSentence": null,
+        "contextSentence": null,
+        "memberNote": null,
+        "can": {
+          "share": true,
+          "createPrivateLink": false,
+          "deletePrivateLink": false,
+          "edit": false,
+          "addToCollections": false,
+          "editCollections": true,
+          "saveToCollection": false,
+          "addNote": true,
+          "editNote": false,
+          "favorite": true,
+          "unfavorite": false,
+          "makePrivate": {
+            "value": true,
+            "isDisabled": true
+          },
+          "makePublic": false,
+          "pin": false,
+          "unpin": false,
+          "addSource": false,
+          "editSource": false,
+          "manageCollaborators": false,
+          "createCanvas": false,
+          "exportCollection": {
+            "value": false
+          },
+          "delete": true,
+          "disconnect": {
+            "value": true,
+            "label": "walk with me?",
+            "from": "ba39e9c6-f6ed-4999-bed4-1dc5d2ac2b35",
+            "to": "ae8ea33d-5cd9-40fe-a114-215588e4ab7c"
+          },
+          "visitRelated": true,
+          "addToStaffPick": false,
+          "removeFromStaffPick": false,
+          "follow": false,
+          "unfollow": false,
+          "filterByMe": {
+            "value": false
+          },
+          "filterByOther": {
+            "value": false
+          }
+        }
+      }
+    ]
   }
 ]
